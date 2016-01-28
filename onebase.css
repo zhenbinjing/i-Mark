@@ -1,14 +1,15 @@
 @charset "utf-8";
 /*去除默认样式*/
-body,dl,dt,dd,ul,ol,li,h1,h2,p,a,img,em{ margin:0; padding:0; border:none; list-style:none; text-decoration:none; font-weight:100; font-family:"微软雅黑"; font-style:normal;}
+body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p,img,a,em{ margin:0; padding:0; outline:0; border:0; list-style:none; text-decoration:none; font-style:normal; font-weight: normal; border-collapse:collapse;border-spacing:0;}
 
 /*清除浮动*/
-.clearfix:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+.clearfix:after {visibility: hidden; display: block; clear: both; content:" "; font-size: 0; height: 0;}
 .clearfix{*zoom:1;}
 
 /*元素状态*/
+.dn{display: none;}
 .db{display: block;}
-.dib{display: inline-block; *display:inline; *zoom:1; }
+.dib{display: inline-block; *display: inline; *zoom: 1; }
 .dt{display: table;}
 .dtc{display: table-cell;}
 
@@ -19,14 +20,14 @@ body,dl,dt,dd,ul,ol,li,h1,h2,p,a,img,em{ margin:0; padding:0; border:none; list-
 /*块状定位*/
 .mlra{margin-left: auto;margin-right: auto;}
 .por{position: relative;}
-.poa{ position: absolute; }
-.fl{float:left;}
-.fr{float:right;}
+.poa{position: absolute; }
+.fl{float: left;}
+.fr{float: right;}
 
 /*内联定位*/
-.vam{vertical-align:middle;}
-.vatb{vertical-align:text-bottom;}
-.vatt{vertical-align:text-top;}
+.vam{vertical-align: middle;}
+.vatb{vertical-align: text-bottom;}
+.vatt{vertical-align: text-top;}
 
 /*字体排版*/
 .tac{text-align: center;}
@@ -35,11 +36,9 @@ body,dl,dt,dd,ul,ol,li,h1,h2,p,a,img,em{ margin:0; padding:0; border:none; list-
 .taj{text-align: justify;}
 
 /*字体样式*/
-.fb{font-weight: bold;}
-
-/*段落样式*/
-.ti2em{text-indent: 2em;}
+.fwb{font-weight: bold;}
+.fsi{font-style: italic;}
 
 /*背景定位*/
 .bgptc{background-position: top center;}
-.bgrn{ background-repeat:no-repeat;}
+.bgrn{ background-repeat: no-repeat;}

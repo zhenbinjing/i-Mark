@@ -1,6 +1,5 @@
-﻿@charset "utf-8";
-/*去除默认样式*/
-body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p,img,a,em{ margin:0; padding:0; outline:0; border:0; list-style:none; text-decoration:none; font-style:normal; font-weight: normal; border-collapse:collapse; border-spacing:0;}
+﻿/*去除默认样式*/
+body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p,img,a,em{ margin:0; padding:0; outline:0; border:0; list-style:none; text-decoration:none; border-collapse:collapse; border-spacing:0;}
 
 /*清除浮动*/
 .clearfix:after {visibility: hidden; display: block; clear: both; content:" "; font-size: 0; height: 0;}
@@ -41,11 +40,9 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 
 /*字体样式*/
 .fwb{font-weight: bold;}
-.fsi{font-style: italic;}
-
-/*字体行高*/
-.lh{line-height: 100%;}
+.fsn{font-style: normal;}
 
 /*背景定位*/
 .bgptc{background-position: top center;}
+.bgpbc{background-position: bottom center;}
 .bgrn{ background-repeat: no-repeat;}

@@ -12,9 +12,10 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 /*元素状态*/
 .dn{display: none;}
 .db{display: block;}
-.dib{display: inline-block; *display: inline; *zoom: 1; }
 .dt{display: table;}
 .dtc{display: table-cell;}
+.dib{display: inline-block; *display: inline; *zoom: 1; }
+.df{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
 
 /*元素可见性*/
 .vh{visibility: hidden;}

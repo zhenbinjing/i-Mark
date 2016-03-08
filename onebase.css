@@ -17,6 +17,33 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 .dib{display: inline-block; *display: inline; *zoom: 1; }
 .df{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
 
+/*-----弹性伸缩------*/
+
+/*项目从左到右，轴线向下*/
+.ffrw{flex-flow:row wrap;}
+
+/*水平轴*/
+.jcc{justify-content:center;}
+.jcsa{ justify-content:space-around}
+.jcsb{ justify-content:space-between}
+
+/*垂直轴*/
+.aifs{align-items:flex-start}
+.aic{align-items:center;}
+.aife{align-items:flex-end;}
+
+/*项目比例*/
+.flex1{flex:1;}
+.flex2{flex:2;}
+.flex3{flex:3;}
+
+/*项目顺序*/
+.order1{order:1}
+.order2{order:2}
+.order3{order:3}
+
+/*-----弹性伸缩end------*/
+
 /*元素可见性*/
 .vh{visibility: hidden;}
 .vv{visibility: visible;}

@@ -48,10 +48,15 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .jcsa{ justify-content:space-around}
 .jcsb{ justify-content:space-between}
 
-/*项目垂直轴*/
-.aifs{align-items:flex-start}
+/*项目单条垂直轴*/
 .aic{align-items:center;}
+.aifs{align-items:flex-start}
 .aife{align-items:flex-end;}
+
+/*项目多条垂直轴(如果项目只有一根轴线，该属性不起作用)*/
+.acc{align-content:center}
+.acsa{align-content:space-around}
+.acsb{align-content:space-between}
 
 /*项目比例*/
 .flex1{flex:1;}

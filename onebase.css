@@ -14,20 +14,41 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 .db{display: block;}
 .dt{display: table;}
 .dtc{display: table-cell;}
-.dib{display: inline-block; *display: inline; *zoom: 1; }
+.dib{display: inline-block; *display: inline; *zoom: 1;}
 .df{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
 
 /*-----弹性伸缩------*/
 
-/*项目从左到右，轴线向下*/
-.ffrw{flex-flow:row wrap;}
+/*
 
-/*水平轴*/
+水平的主轴:
+flex-direction: row | row-reverse | column | column-reverse; 
+row（默认值）：主轴为水平方向，起点在左端。
+row-reverse：主轴为水平方向，起点在右端。
+column：主轴为垂直方向，起点在上沿。
+column-reverse：主轴为垂直方向，起点在下沿
+
+垂直的交叉轴:
+flex-wrap: nowrap | wrap | wrap-reverse;
+nowrap（默认）：不换行
+wrap：换行，第一行在上方
+wrap-reverse：换行，第一行在下方
+
+flex-flow 是flex-direction与flex-wrap简写版。
+flex-flow: <flex-direction> || <flex-wrap>;
+
+*/ 
+
+/*项目水平垂直方向*/
+.ffrw{flex-flow:row wrap;}
+.ffrwr{flex-flow:row wrap-reverse;}
+
+/*项目水平轴*/
 .jcc{justify-content:center;}
 .jcsa{ justify-content:space-around}
 .jcsb{ justify-content:space-between}
 
-/*垂直轴*/
+/*项目垂直轴*/
 .aifs{align-items:flex-start}
 .aic{align-items:center;}
 .aife{align-items:flex-end;}

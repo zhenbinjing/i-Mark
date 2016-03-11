@@ -42,6 +42,7 @@ flex-flow: <flex-direction> || <flex-wrap>;
 /*项目水平垂直方向*/
 .ffrw{flex-flow:row wrap;}
 .ffrwr{flex-flow:row wrap-reverse;}
+.ffcw{flex-flow:column wrap;}
 
 /*项目水平轴*/
 .jcc{justify-content:center;}

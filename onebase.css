@@ -62,6 +62,7 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .flex1{flex:1;}
 .flex2{flex:2;}
 .flex3{flex:3;}
+.flexi{flex: initial;}
 
 /*项目顺序*/
 .order1{order:1}

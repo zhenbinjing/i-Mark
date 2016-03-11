@@ -106,3 +106,7 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .bgptc{background-position: top center;}
 .bgpbc{background-position: bottom center;}
 .bgrn{ background-repeat: no-repeat;}
+
+/*背景填充*/
+.bgscv{background-size: cover;}
+.bgsct{background-size: contain;}

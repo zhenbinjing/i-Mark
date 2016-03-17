@@ -95,6 +95,7 @@ flex-flow: <flex-direction> || <flex-wrap>;
 
 /*字体样式*/
 .fwb{font-weight: bold;}
+.fwn{font-weight: normal;}
 .fsn{font-style: normal;}
 
 /*字体大小*/

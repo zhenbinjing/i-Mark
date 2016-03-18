@@ -15,7 +15,7 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 .dt{display: table;}
 .dtc{display: table-cell;}
 .dib{display: inline-block; *display: inline; *zoom: 1;}
-.df{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}
+.df{display:-webkit-box;display:-webkit-flex;display:flex;}
 
 /*-----弹性伸缩------*/
 
@@ -40,34 +40,34 @@ flex-flow: <flex-direction> || <flex-wrap>;
 */ 
 
 /*项目水平垂直方向*/
-.ffrw{flex-flow:row wrap;}
-.ffrwr{flex-flow:row wrap-reverse;}
+.ffrw{-webkit-flex-flow:row wrap; flex-flow:row wrap;}
+.ffrwr{-webkit-flex-flow:row wrap-reverse; flex-flow:row wrap-reverse; }
 
 /*项目水平轴*/
-.jcc{justify-content:center;}
-.jcsa{ justify-content:space-around}
-.jcsb{ justify-content:space-between}
+.jcc{-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center; }
+.jcsa{-webkit-justify-content:space-around; justify-content:space-around;}
+.jcsb{-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;}
 
 /*项目单条垂直轴*/
-.aic{align-items:center;}
-.aifs{align-items:flex-start}
-.aife{align-items:flex-end;}
+.aic{-webkit-box-align: center;-webkit-align-items:center; align-items: center; }
+.aifs{-webkit-box-align: start; -webkit-align-items:flex-start; align-items:flex-start; }
+.aife{-webkit-align-items:flex-end; align-items:flex-end;}
 
 /*项目多条垂直轴(如果项目只有一根轴线，该属性不起作用)*/
-.acc{align-content:center}
-.acsa{align-content:space-around}
-.acsb{align-content:space-between}
+.acc{-webkit-align-content:center; align-content:center; }
+.acsa{-webkit-align-content:space-around; align-content:space-around; }
+.acsb{-webkit-align-content:space-between; align-content:space-between; }
 
 /*项目比例*/
-.flex1{flex:1;}
-.flex2{flex:2;}
-.flex3{flex:3;}
-.flexi{flex: initial;}
+.flex1{-webkit-flex:1;flex:1;-webkit-box-flex:1;}
+.flex2{-webkit-flex:2;flex:2;-webkit-box-flex:2; }
+.flex3{-webkit-flex:3;flex:3;-webkit-box-flex:3;}
+.flexi{-webkit-flex: initial; flex: initial; }
 
 /*项目顺序*/
-.order1{order:1}
-.order2{order:2}
-.order3{order:3}
+.order1{-webkit-order:1; order:1; }
+.order2{-webkit-order:2; order:2; }
+.order3{-webkit-order:2; order:3; }
 
 /*-----弹性伸缩end------*/
 

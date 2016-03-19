@@ -102,7 +102,7 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .fz0{font-size: 0;}
 
 /*宽度大小*/
-.w0{width: 0;}
+.w0{width: 0%;}
 
 /*背景定位*/
 .bgptc{background-position: top center;}

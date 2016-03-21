@@ -5,6 +5,9 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 .clearfix:after {visibility: hidden; display: block; clear: both; content:" "; font-size: 0; height: 0;}
 .clearfix{*zoom:1;}
 
+/*略号文字截断*/
+.cut{white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+
 /*容器设定*/
 .oh{overflow: hidden;}
 .bxz{box-sizing: border-box;}
@@ -15,12 +18,11 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 .dt{display: table;}
 .dtc{display: table-cell;}
 .dib{display: inline-block; *display: inline; *zoom: 1;}
+
+/*-----弹性伸缩start------*/
 .df{display:-webkit-box;display:-webkit-flex;display:flex;}
 
-/*-----弹性伸缩------*/
-
 /*
-
 水平的主轴:
 flex-direction: row | row-reverse | column | column-reverse; 
 row（默认值）：主轴为水平方向，起点在左端。
@@ -36,7 +38,6 @@ wrap-reverse：换行，第一行在下方
 
 flex-flow 是flex-direction与flex-wrap简写版。
 flex-flow: <flex-direction> || <flex-wrap>;
-
 */ 
 
 /*项目水平垂直方向*/

@@ -84,10 +84,14 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .fl{float: left;}
 .fr{float: right;}
 
-/*内联定位*/
+/*内联定位(上中下)*/
 .vam{vertical-align: middle;}
 .vatb{vertical-align: text-bottom;}
 .vatt{vertical-align: text-top;}
+
+/*内联定位(左右)*/
+.drtl{direction:ltr;}
+.drtl{direction:rtl;}
 
 /*字体排版*/
 .tac{text-align: center;}

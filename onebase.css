@@ -45,13 +45,14 @@ flex-flow: <flex-direction> || <flex-wrap>;
 
 /*项目水平轴*/
 .jcc{-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center; }
-.jcsa{-webkit-justify-content:space-around; justify-content:space-around;}
+/*这里旧版语法有4个参数，而新版语法有5个参数，兼容写法新版语法的 space-around 是不可用的：*/
+.jcsa{ -webkit-justify-content:space-around; justify-content:space-around;}
 .jcsb{-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;}
 
 /*项目单条垂直轴*/
 .aic{-webkit-box-align: center;-webkit-align-items:center; align-items: center; }
 .aifs{-webkit-box-align: start; -webkit-align-items:flex-start; align-items:flex-start; }
-.aife{-webkit-align-items:flex-end; align-items:flex-end;}
+.aife{-webkit-box-align: end;-webkit-align-items:flex-end; align-items:flex-end;}
 
 /*项目多条垂直轴(如果项目只有一根轴线，该属性不起作用)*/
 .acc{-webkit-align-content:center; align-content:center; }

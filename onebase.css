@@ -1,4 +1,5 @@
 ﻿/*去除默认样式*/
+*{box-sizing: border-box;}
 body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p,img,a,em{ margin:0; padding:0; outline:0; border:0; list-style:none; text-decoration:none; border-collapse:collapse; border-spacing:0; font-family:"微软雅黑";}
 
 /*清除浮动*/
@@ -7,10 +8,6 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 
 /*略号文字截断*/
 .cut{white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
-
-/*容器设定*/
-.oh{overflow: hidden;}
-.bxz{box-sizing: border-box;}
 
 /*元素状态*/
 .dn{display: none;}
@@ -61,17 +58,16 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .acsb{-webkit-align-content:space-between; align-content:space-between; }
 
 /*项目比例*/
-.flex1{-webkit-flex:1;-webkit-box-flex:1;flex:1;}
-.flex2{-webkit-flex:2;-webkit-box-flex:2;flex:2;}
-.flex3{-webkit-flex:3;-webkit-box-flex:3;flex:3;}
-.flex4{-webkit-flex:4;-webkit-box-flex:4;flex:4;}
+.flex1{-webkit-flex:1;flex:1;-webkit-box-flex:1;}
+.flex2{-webkit-flex:2;flex:2;-webkit-box-flex:2; }
+.flex3{-webkit-flex:3;flex:3;-webkit-box-flex:3;}
 .flexi{-webkit-flex: initial; flex: initial; }
 
 /*项目顺序*/
 .order1{-webkit-box-ordinal-group: 1; -webkit-order: 1; order: 1;}
 .order2{-webkit-box-ordinal-group: 2; -webkit-order: 2; order: 2;}
 .order3{-webkit-box-ordinal-group: 3; -webkit-order: 3; order: 3;}
-.order4{-webkit-box-ordinal-group: 4; -webkit-order: 4; order: 4;}
+
 /*-----弹性伸缩end------*/
 
 /*元素可见性*/

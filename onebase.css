@@ -85,6 +85,8 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .vam{vertical-align: middle;}
 .vatb{vertical-align: text-bottom;}
 .vatt{vertical-align: text-top;}
+.vasup{vertical-align:super;}
+.vasub{vertical-align:sub;}
 
 /*内联定位(左右)*/
 .drtl{direction:ltr;}

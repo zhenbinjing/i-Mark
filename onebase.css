@@ -99,6 +99,14 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .tar{text-align: right;}
 .taj{text-align: justify;}
 
+/*字体垂直排版*/
+.verticle-mode {
+    writing-mode: tb-rl;
+    -webkit-writing-mode: vertical-rl;      
+    writing-mode: vertical-rl;
+    *writing-mode: tb-rl;
+}
+
 /*字体样式*/
 .fwb{font-weight: bold;}
 .fwn{font-weight: normal;}

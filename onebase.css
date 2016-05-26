@@ -103,7 +103,7 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .wm {
     writing-mode: tb-rl;
     -webkit-writing-mode: vertical-rl;      
-    writing-mode: vertical-rl;
+    writing-mode: vertical-rl;  
     *writing-mode: tb-rl;
 }
 
@@ -122,6 +122,12 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .bgptc{background-position: top center;}
 .bgpbc{background-position: bottom center;}
 .bgrn{ background-repeat: no-repeat;}
+
+/*背景色被裁剪到盒子的内边距框中显示*/
+.bgcpd{-webkit-background-clip: padding-box;-moz-background-clip: padding-box;background-clip: padding-box;}
+
+/*背景图像相对于盒子的内边距框中定位*/
+.bgopd{-webkit-background-origin:padding-box;background-origin:padding-box;}
 
 /*背景填充*/
 .bgscv{background-size: cover;}

@@ -7,9 +7,6 @@ body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p
 .clearfix:after {visibility: hidden; display: block; clear: both; content:" "; font-size: 0; height: 0;}
 .clearfix{*zoom:1;}
 
-/*略号文字截断*/
-.cut{white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
-
 /*元素状态*/
 .dn{display: none;}
 .db{display: block;}
@@ -98,6 +95,9 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .tal{text-align: left;}
 .tar{text-align: right;}
 .taj{text-align: justify;}
+
+/*略号文字截断*/
+.cut{white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
 
 /*字体垂直排版*/
 .wm {writing-mode: tb-rl; -webkit-writing-mode: vertical-rl;  writing-mode: vertical-rl; *writing-mode: tb-rl;}

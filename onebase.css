@@ -1,7 +1,7 @@
 ﻿/*去除默认样式,可以用normalize.css代替,这里是按照我平时用的标签做的reset*/
 
 *{  -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
-body,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p,img,a,em{ margin:0; padding:0; outline:0; border:0; list-style:none; text-decoration:none; border-collapse:collapse; border-spacing:0; font-family:"微软雅黑";}
+body,div,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p,span,img,a,em{ margin:0; padding:0; outline:0; border:0; list-style:none; text-decoration:none; border-collapse:collapse; border-spacing:0; font-family:"微软雅黑";}
 
 /*清除浮动*/
 .clearfix:after {visibility: hidden; display: block; clear: both; content:" "; font-size: 0; height: 0;}
@@ -102,8 +102,11 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .talr{text-align-last: right;}
 .talj{text-align-last: justify;}
 
-/*略号文字截断*/
+/*略号文字截断(单行)*/
 .cut{white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+
+/*略号文字截断(多行 -webkit-line-clamp 设置第几行截断)*/
+.cut2{overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 7; -webkit-box-orient: vertical; word-break: break-all;}
 
 /*字体垂直排版*/
 .wm {writing-mode: tb-rl; -webkit-writing-mode: vertical-rl;  writing-mode: vertical-rl; *writing-mode: tb-rl;}

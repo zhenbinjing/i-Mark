@@ -1,11 +1,11 @@
-﻿/*去除默认样式,可以用normalize.css代替,这里是按照我平时用的标签做的reset*/
+﻿/*重置样式,可以用normalize.css代替,这里是按照我平时用的标签做的reset*/
 
 body,div,dl,dt,dd,ul,ol,li,table,tr,td,form,input,select,textarea,blockquote,h1,h2,p,span,img,a,em{ margin:0; padding:0; outline:0; border:0; border-spacing:0; list-style:none; text-decoration:none; border-collapse:collapse;  font-family:"微软雅黑";}
 
 *{  -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
 *:before,*:after {-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
 
-/*-----弹性伸缩start------*/
+/*-----Flexbox------*/
 
 /*------------------------
 
@@ -61,7 +61,7 @@ flex-flow: <flex-direction> || <flex-wrap>;
 .order2{-webkit-box-ordinal-group: 2; -webkit-order: 2; order: 2;}
 .order3{-webkit-box-ordinal-group: 3; -webkit-order: 3; order: 3;}
 
-/*-----弹性伸缩end------*/
+/*-----Flexbox End------*/
 
 
 /*-----排版解决方案start------*/

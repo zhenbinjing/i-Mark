@@ -2,30 +2,30 @@
 ## 建站库
 
 ### 学习记录                            
-                                    [百度网盘](http://pan.baidu.com/disk/home)
-                                    [百度脑图](http://naotu.baidu.com/)
-                                    [我的博客](http://blog.163.com/zbj_jbz/)                                 
+[百度网盘](http://pan.baidu.com/disk/home)
+[百度脑图](http://naotu.baidu.com/)
+[我的博客](http://blog.163.com/zbj_jbz/)                                 
 
 ### 服务管理                            
-                                    [阿里云](https://www.aliyun.com/)
-                                    [备案管理](https://beian.gein.cn/account/login.htm)
-                                    [爱名域名](http://22.cn/)
-                                    [七牛存储](http://www.qiniu.com/)
-                                    [系统运维](http://www.osyunwei.com/)                    
+[阿里云](https://www.aliyun.com/)
+[备案管理](https://beian.gein.cn/account/login.htm)
+[爱名域名](http://22.cn/)
+[七牛存储](http://www.qiniu.com/)
+[系统运维](http://www.osyunwei.com/)                    
 
 ### 后台工具                            
-                                    [PuTTY](http://www.putty.org/)
-                                    [WinSCP](http://winscp.net/eng/download.php)
-                                    [AppServ](https://www.appservnetwork.com/en/download/)
-                                    [ApmServ](http://zyan.cc/apmserv/)
-                                    [dede官网](http://www.dedecms.com/)                                             
+[PuTTY](http://www.putty.org/)
+[WinSCP](http://winscp.net/eng/download.php)
+[AppServ](https://www.appservnetwork.com/en/download/)
+[ApmServ](http://zyan.cc/apmserv/)
+[dede官网](http://www.dedecms.com/)                                             
 
 ### 便捷工具                            
-                                    [端端](http://www.clouduolc.com/download.html)
-                                    [录制gif](http://www.cockos.com/licecap/)
-                                    [查找文件](http://www.listary.com/download)
-                                    [仿站工具](http://smalltool.github.io/)
-                                    [文件对比](http://sourcegear.com/diffmerge/)   
+[端端](http://www.clouduolc.com/download.html)
+[录制gif](http://www.cockos.com/licecap/)
+[查找文件](http://www.listary.com/download)
+[仿站工具](http://smalltool.github.io/)
+[文件对比](http://sourcegear.com/diffmerge/)   
 
 ## 军火库
 

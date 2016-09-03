@@ -79,233 +79,233 @@
 
 >>>[jq插件库](http://www.jq22.com/)
 
-### 前端工具
+>### 前端工具
 
-#### 软件插件 
+>>#### 软件插件 
 
-[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)
+>>>[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)
 
-[CSS3Ps](http://css3ps.com/)
+>>>[CSS3Ps](http://css3ps.com/)
 
-[Cut&amp;Slice](http://www.cutandslice.me/)
+>>>[Cut&amp;Slice](http://www.cutandslice.me/)
 
-[witstudio](http://witstudio.net/)
+>>>[witstudio](http://witstudio.net/)
 
-[Emmet](http://emmet.io/) 
+>>>[Emmet](http://emmet.io/) 
 
-#### 性能测试 
+>>#### 性能测试 
 
-[caniuse](http://caniuse.com/)
+>>>[caniuse](http://caniuse.com/)
 
-[网站测速](http://www.17ce.com/)
+>>>[网站测速](http://www.17ce.com/)
 
-[网页性能](https://developers.google.com/speed/pagespeed/insights/)
+>>>[网页性能](https://developers.google.com/speed/pagespeed/insights/)
 
-[CDN加速](http://www.staticfile.org/)
+>>>[CDN加速](http://www.staticfile.org/)
 
-[W3C 验证](http://validator.w3.org/)
+>>>[W3C 验证](http://validator.w3.org/)
 
-#### 处理图片 
+>>#### 处理图片 
 
-[制作ICO](http://www.bitbug.net/)
+>>>[制作ICO](http://www.bitbug.net/)
 
-[DataURI ](http://duri.me/)
+>>>[DataURI ](http://duri.me/)
 
-[iconfont](http://www.iconfont.cn/)
+>>>[iconfont](http://www.iconfont.cn/)
 
-[tinypng](https://tinypng.com/)
+>>>[tinypng](https://tinypng.com/)
 
-[智图压缩](http://zhitu.isux.us/)
+>>>[智图压缩](http://zhitu.isux.us/)
 
-[合并识别](http://www.spritecow.com/)
+>>>[合并识别](http://www.spritecow.com/)
 
-[Apng制作](http://isparta.github.io/index.html)
+>>>[Apng制作](http://isparta.github.io/index.html)
 
-[Clippy](http://bennettfeely.com/clippy/)
+>>>[Clippy](http://bennettfeely.com/clippy/)
 
-[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)
+>>>[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)
 
-#### 在线转换 
+>>#### 在线转换 
 
-[快切助手](http://kuaiqie.qdsay.com/)
+>>>[快切助手](http://kuaiqie.qdsay.com/)
 
-[代码压缩](http://tool.css-js.com/)
+>>>[代码压缩](http://tool.css-js.com/)
 
-[视频转换](http://video.online-convert.com/convert-to-ogg)
+>>>[视频转换](http://video.online-convert.com/convert-to-ogg)
 
-### 前端仓库
+>### 前端仓库
 
-#### 移动综合
+>>#### 移动综合
 
-##### CSS文件
+>>>##### CSS文件
 
-[Nojs](https://github.com/NamPNQ/You-Dont-Need-Javascript)
+>>>>[Nojs](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 
-[load.css](http://tobiasahlin.com/spinkit/)
+>>>>[load.css](http://tobiasahlin.com/spinkit/)
 
-[hover.css](http://ianlunn.github.io/Hover/)
+>>>>[hover.css](http://ianlunn.github.io/Hover/)
 
-[animate.css](http://daneden.github.io/animate.css/)
+>>>>[animate.css](http://daneden.github.io/animate.css/)
 
-[imghover.css](http://gudh.github.io/ihover/dist/index.html)
+>>>>[imghover.css](http://gudh.github.io/ihover/dist/index.html)
 
-[normalize.css](http://necolas.github.io/normalize.css/) 
+>>>>[normalize.css](http://necolas.github.io/normalize.css/) 
 
-##### SVG工具
+>>>##### SVG工具
 
-[svg.js](http://svgjs.com/)
+>>>>[svg.js](http://svgjs.com/)
 
-[SVG粒子](https://github.com/VincentGarreau/particles.js)
+>>>>[SVG粒子](https://github.com/VincentGarreau/particles.js)
 
-[Snap.svg](http://snapsvg.io/)
+>>>>[Snap.svg](http://snapsvg.io/)
 
-[SVG Morpheus ](http://alexk111.github.io/SVG-Morpheus/)
+>>>>[SVG Morpheus ](http://alexk111.github.io/SVG-Morpheus/)
 
-[SVG animation ](http://svgcircus.com/)
+>>>>[SVG animation ](http://svgcircus.com/)
 
-##### 移动插件
+>>>##### 移动插件
 
-[响应事件JS](http://wicky.nillia.ms/enquire.js/)
+>>>>[响应事件JS](http://wicky.nillia.ms/enquire.js/)
 
-[兼容滚动JS](http://iscrolljs.com/)
+>>>>[兼容滚动JS](http://iscrolljs.com/)
 
-[移动触摸JS](http://hammerjs.github.io/)
+>>>>[移动触摸JS](http://hammerjs.github.io/)
 
-[点透事件JS](https://github.com/ftlabs/fastclick)
+>>>>[点透事件JS](https://github.com/ftlabs/fastclick)
 
-[Zeptojs](http://zeptojs.com/) 
+>>>>[Zeptojs](http://zeptojs.com/) 
 
-##### 移动组件
+>>>##### 移动组件
 
-[弹层插件](https://github.com/1340641314/cloud)
+>>>>[弹层插件](https://github.com/1340641314/cloud)
 
-[移动alert](https://jaredreich.com/projects/notie.js/)
+>>>>[移动alert](https://jaredreich.com/projects/notie.js/)
 
-[侧面导航](https://mango.github.io/slideout/)
+>>>>[侧面导航](https://mango.github.io/slideout/)
 
-[图片放大](http://photoswipe.com/)
+>>>>[图片放大](http://photoswipe.com/)
 
-[触摸组件](http://idangero.us/swiper/demos/)
+>>>>[触摸组件](http://idangero.us/swiper/demos/)
 
-[滚屏插件](https://github.com/yanhaijing/zepto.fullpage) 
+>>>>[滚屏插件](https://github.com/yanhaijing/zepto.fullpage) 
 
-#### JS综合库 
+>>#### JS综合库 
 
-##### JS响应库
+>>>##### JS响应库
 
-[Popup](http://dimsemenov.com/plugins/magnific-popup/)
+>>>>[Popup](http://dimsemenov.com/plugins/magnific-popup/)
 
-[响应滚动](http://kenwheeler.github.io/slick/)
+>>>>[响应滚动](http://kenwheeler.github.io/slick/)
 
-[Owl Carousel](http://owlgraphic.com/owlcarousel/)
+>>>>[Owl Carousel](http://owlgraphic.com/owlcarousel/)
 
-[Jquery Picture](https://github.com/Abban/jQuery-Picture)
+>>>>[Jquery Picture](https://github.com/Abban/jQuery-Picture)
 
-[Respond](https://github.com/scottjehl/Respond/)
+>>>>[Respond](https://github.com/scottjehl/Respond/)
 
-[lazysizes](https://github.com/aFarkas/lazysizes)
+>>>>[lazysizes](https://github.com/aFarkas/lazysizes)
 
-##### JS媒体库 
+>>>##### JS媒体库 
  
-[Plyr](https://plyr.io/)
+>>>>[Plyr](https://plyr.io/)
 
-[Video.js](http://videojs.com/)
+>>>>[Video.js](http://videojs.com/)
 
-[FitVids.js](https://github.com/davatron5000/FitVids.js)
+>>>>[FitVids.js](https://github.com/davatron5000/FitVids.js)
 
-[Flowplayer](https://flowplayer.org/)
+>>>>[Flowplayer](https://flowplayer.org/)
 
-[html5media](https://html5media.info/)
+>>>>[html5media](https://html5media.info/)
 
-[视频背景](http://vodkabears.github.io/vide/)
+>>>>[视频背景](http://vodkabears.github.io/vide/)
 
-[MP3播放](https://github.com/goldfire/howler.js)
+>>>>[MP3播放](https://github.com/goldfire/howler.js)
 
-##### JS优化库 
+>>>##### JS优化库 
 
-[Sea.js](http://seajs.org/docs/)
+>>>>[Sea.js](http://seajs.org/docs/)
 
-[pjax.js](http://pjax.herokuapp.com/)
+>>>>[pjax.js](http://pjax.herokuapp.com/)
 
-[延迟加载](http://www.appelsiini.net/projects/lazyload)
+>>>>[延迟加载](http://www.appelsiini.net/projects/lazyload)
 
-[分页插件](http://luis-almeida.github.io/jPages/)
+>>>>[分页插件](http://luis-almeida.github.io/jPages/)
 
-[表单验证](http://jqueryvalidation.org/)
+>>>>[表单验证](http://jqueryvalidation.org/)
 
-[表单验证2](http://parsleyjs.org/)
+>>>>[表单验证2](http://parsleyjs.org/)
 
-##### JS国产库
+>>>##### JS国产库
 
-[网页弹窗](http://layer.layui.com/)
+>>>>[网页弹窗](http://layer.layui.com/)
 
-[综合应用](http://www.superslide2.com/)
+>>>>[综合应用](http://www.superslide2.com/)
 
-[图片幻灯](http://demo.jb51.net/js/myfocus/)
+>>>>[图片幻灯](http://demo.jb51.net/js/myfocus/)
 
-[新手引导](http://www.zhugao.net/info/showroom/frontend/uguide/)
+>>>>[新手引导](http://www.zhugao.net/info/showroom/frontend/uguide/)
 
-[打字效果](http://coffeedeveloper.github.io/typing.js/)
+>>>>[打字效果](http://coffeedeveloper.github.io/typing.js/)
 
-[实例索引](http://fgm.cc/learn/)
+>>>>[实例索引](http://fgm.cc/learn/)
 
-[树形插件](http://www.ztree.me/v3/main.php#_zTreeInfo)
+>>>>[树形插件](http://www.ztree.me/v3/main.php#_zTreeInfo)
 
-#### JS交互库
+>>#### JS交互库
 
-##### 界面
+>>>>>>>##### 界面
 
-[弹出框](http://t4t5.github.io/sweetalert/)
+>>>>[弹出框](http://t4t5.github.io/sweetalert/)
 
-[弹出层](http://fancyapps.com/fancybox/)
+>>>>[弹出层](http://fancyapps.com/fancybox/)
 
-[图片弹窗](http://highslide.com/download.php)
+>>>>[图片弹窗](http://highslide.com/download.php)
 
-[倒数计时](http://flipclockjs.com/)
+>>>>[倒数计时](http://flipclockjs.com/)
 
-[新手引导](https://github.com/usablica/intro.js)
+>>>>[新手引导](https://github.com/usablica/intro.js)
 
-[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)
+>>>>[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)
 
-##### 视觉
+>>>##### 视觉
 
-[2D视差](http://matthew.wagerfield.com/parallax/)
+>>>>[2D视差](http://matthew.wagerfield.com/parallax/)
 
-[加载动画](http://mynameismatthieu.com/WOW/)
+>>>>[加载动画](http://mynameismatthieu.com/WOW/)
 
-[360度展现](http://polarnotion.github.io/turntable/#js)
+>>>>[360度展现](http://polarnotion.github.io/turntable/#js)
 
-[滚动条动画](https://terwanerik.github.io/ScrollTrigger/)
+>>>>[滚动条动画](https://terwanerik.github.io/ScrollTrigger/)
 
-[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
+>>>>[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
 
-##### 滚动
+>>>##### 滚动
 
-[左右滚动](http://www.gmarwaha.com/jquery/jcarousellite/demo.php)
+>>>>[左右滚动](http://www.gmarwaha.com/jquery/jcarousellite/demo.php)
 
-[滑动定位](http://simianstudios.com/portamento/)
+>>>>[滑动定位](http://simianstudios.com/portamento/)
 
-[智能导航](http://davist11.github.io/jQuery-One-Page-Nav/)
+>>>>[智能导航](http://davist11.github.io/jQuery-One-Page-Nav/)
 
-[贴顶滚动](http://www.outyear.co.uk/smint/)
+>>>>[贴顶滚动](http://www.outyear.co.uk/smint/)
 
-[滚动加载](https://scrollrevealjs.org/)
+>>>>[滚动加载](https://scrollrevealjs.org/)
 
-[滚屏插件](http://alvarotrigo.com/fullPage/)
+>>>>[滚屏插件](http://alvarotrigo.com/fullPage/)
 
-[滚动视差](http://prinzhorn.github.io/skrollr/)
+>>>>[滚动视差](http://prinzhorn.github.io/skrollr/)
 
-[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)
+>>>>[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)
 
-##### 特效
+>>>##### 特效
 
-[下雨效果](http://maroslaw.github.io/rainyday.js/)
+>>>>[下雨效果](http://maroslaw.github.io/rainyday.js/)
 
-[anime.js](http://anime-js.com/)
+>>>>[anime.js](http://anime-js.com/)
 
-[点击复制](https://clipboardjs.com/)
+>>>>[点击复制](https://clipboardjs.com/)
 
-[Velocity.js](http://julian.com/research/velocity/#duration)
+>>>>[Velocity.js](http://julian.com/research/velocity/#duration)
 
 ### 后端平台 
 

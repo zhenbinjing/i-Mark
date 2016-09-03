@@ -42,6 +42,7 @@
 ### 前端技术
 
 #### 前端组织 
+
 [GitHub](https://github.com/)
 
 [牛人排行](http://githubrank.com/)
@@ -51,6 +52,7 @@
 [前端俱乐部](http://f2er.club/)
 
 #### 前端设计 
+
 [站酷网](http://www.zcool.com.cn/)
 
 [优设网](http://www.uisdc.com/)
@@ -60,6 +62,7 @@
 [花瓣网](http://huaban.com/)
 
 #### 前端博客 
+
 [掘金](http://gold.xitu.io/)
 
 [W3CPlus](http://www.w3cplus.com/)
@@ -71,6 +74,7 @@
 [廖雪峰博客](http://www.liaoxuefeng.com/) 
 
 #### 前端素材 
+
 [17素材网](http://www.17sucai.com/)
 
 [jq插件库](http://www.jq22.com/)
@@ -78,6 +82,7 @@
 ### 前端工具
 
 #### 软件插件 
+
 [Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)
 
 [CSS3Ps](http://css3ps.com/)
@@ -89,6 +94,7 @@
 [Emmet](http://emmet.io/) 
 
 #### 性能测试 
+
 [caniuse](http://caniuse.com/)
 
 [网站测速](http://www.17ce.com/)
@@ -100,6 +106,7 @@
 [W3C 验证](http://validator.w3.org/)
 
 #### 处理图片 
+
 [制作ICO](http://www.bitbug.net/)
 
 [DataURI ](http://duri.me/)
@@ -119,6 +126,7 @@
 [3DCSS](http://thewebrocks.com/demos/3D-css-tester/)
 
 #### 在线转换 
+
 [快切助手](http://kuaiqie.qdsay.com/)
 
 [代码压缩](http://tool.css-js.com/)
@@ -130,6 +138,7 @@
 #### 移动综合
 
 ##### CSS文件
+
 [Nojs](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 
 [load.css](http://tobiasahlin.com/spinkit/)
@@ -143,6 +152,7 @@
 [normalize.css](http://necolas.github.io/normalize.css/) 
 
 ##### SVG工具
+
 [svg.js](http://svgjs.com/)
 
 [SVG粒子](https://github.com/VincentGarreau/particles.js)
@@ -154,6 +164,7 @@
 [SVG animation ](http://svgcircus.com/)
 
 ##### 移动插件
+
 [响应事件JS](http://wicky.nillia.ms/enquire.js/)
 
 [兼容滚动JS](http://iscrolljs.com/)
@@ -165,6 +176,7 @@
 [Zeptojs](http://zeptojs.com/) 
 
 ##### 移动组件
+
 [弹层插件](https://github.com/1340641314/cloud)
 
 [移动alert](https://jaredreich.com/projects/notie.js/)
@@ -179,7 +191,8 @@
 
 #### JS综合库 
 
- ##### JS响应库
+##### JS响应库
+
 [Popup](http://dimsemenov.com/plugins/magnific-popup/)
 
 [响应滚动](http://kenwheeler.github.io/slick/)
@@ -192,7 +205,8 @@
 
 [lazysizes](https://github.com/aFarkas/lazysizes)
 
- ##### JS媒体库 
+##### JS媒体库 
+ 
 [Plyr](https://plyr.io/)
 
 [Video.js](http://videojs.com/)
@@ -207,7 +221,8 @@
 
 [MP3播放](https://github.com/goldfire/howler.js)
 
- ##### JS优化库 
+##### JS优化库 
+
 [Sea.js](http://seajs.org/docs/)
 
 [pjax.js](http://pjax.herokuapp.com/)
@@ -221,6 +236,7 @@
 [表单验证2](http://parsleyjs.org/)
 
 ##### JS国产库
+
 [网页弹窗](http://layer.layui.com/)
 
 [综合应用](http://www.superslide2.com/)
@@ -238,6 +254,7 @@
 #### JS交互库
 
 ##### 界面
+
 [弹出框](http://t4t5.github.io/sweetalert/)
 
 [弹出层](http://fancyapps.com/fancybox/)
@@ -250,7 +267,8 @@
 
 [表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)
 
- ##### 视觉
+##### 视觉
+
 [2D视差](http://matthew.wagerfield.com/parallax/)
 
 [加载动画](http://mynameismatthieu.com/WOW/)
@@ -261,7 +279,8 @@
 
 [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
 
- ##### 滚动
+##### 滚动
+
 [左右滚动](http://www.gmarwaha.com/jquery/jcarousellite/demo.php)
 
 [滑动定位](http://simianstudios.com/portamento/)
@@ -279,6 +298,7 @@
 [滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)
 
 ##### 特效
+
 [下雨效果](http://maroslaw.github.io/rainyday.js/)
 
 [anime.js](http://anime-js.com/)
@@ -288,6 +308,7 @@
 [Velocity.js](http://julian.com/research/velocity/#duration)
 
 ### 后端平台 
+
 [node.js](https://nodejs.org/)
 
 [gulp.js](http://www.gulpjs.com.cn/)

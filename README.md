@@ -162,6 +162,14 @@
 
 >### 前端仓库
 
+>>#### 框架与库
+
+>>>[Vue](http://vuejs.org.cn/)
+
+>>>[jQuery](http://jquery.com/)
+
+>>>[Zeptojs](http://zeptojs.com/) 
+
 >>#### 移动综合
 
 >>>##### CSS文件
@@ -199,8 +207,6 @@
 >>>>[移动触摸JS](http://hammerjs.github.io/)
 
 >>>>[点透事件JS](https://github.com/ftlabs/fastclick)
-
->>>>[Zeptojs](http://zeptojs.com/) 
 
 >>>##### 移动组件
 

@@ -256,8 +256,6 @@
 
 >>>##### JS优化库 
 
->>>>[Sea.js](http://seajs.org/docs/)
-
 >>>>[pjax.js](http://pjax.herokuapp.com/)
 
 >>>>[延迟加载](http://www.appelsiini.net/projects/lazyload)

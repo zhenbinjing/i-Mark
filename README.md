@@ -164,11 +164,13 @@
 
 >>#### 框架与库
 
->>>[Vue](http://vuejs.org.cn/)
-
 >>>[jQuery](http://jquery.com/)
 
->>>[Zeptojs](http://zeptojs.com/) 
+>>>[Zepto](http://zeptojs.com/) 
+
+>>>[Vue](http://vuejs.org.cn/)
+
+>>>[D3](https://d3js.org/)
 
 >>#### 移动综合
 

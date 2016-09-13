@@ -192,7 +192,7 @@
 
 >>>>[normalize.css](http://necolas.github.io/normalize.css/) 
 
->>>[hint.css](https://github.com/chinchang/hint.css)
+>>>>[hint.css](https://github.com/chinchang/hint.css)
 
 >>>##### SVG工具
 

@@ -108,30 +108,6 @@
 
 >### 前端工具
 
->>#### 软件插件 
-
->>>[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)
-
->>>[CSS3Ps](http://css3ps.com/)
-
->>>[Cut&amp;Slice](http://www.cutandslice.me/)
-
->>>[witstudio](http://witstudio.net/)
-
->>>[Emmet](http://emmet.io/) 
-
->>#### 性能测试 
-
->>>[caniuse](http://caniuse.com/)
-
->>>[网站测速](http://www.17ce.com/)
-
->>>[网页性能](https://developers.google.com/speed/pagespeed/insights/)
-
->>>[CDN加速](http://www.staticfile.org/)
-
->>>[W3C 验证](http://validator.w3.org/)
-
 >>#### 处理图片 
 
 >>>[制作ICO](http://www.bitbug.net/)
@@ -148,9 +124,37 @@
 
 >>>[Apng制作](http://isparta.github.io/index.html)
 
+>>#### 性能测试 
+
+>>>[caniuse](http://caniuse.com/)
+
+>>>[网站测速](http://www.17ce.com/)
+
+>>>[网页性能](https://developers.google.com/speed/pagespeed/insights/)
+
+>>>[CDN加速](http://www.staticfile.org/)
+
+>>>[W3C 验证](http://validator.w3.org/)
+
+>>#### 软件插件 
+
+>>>[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)
+
+>>>[CSS3Ps](http://css3ps.com/)
+
+>>>[Cut&amp;Slice](http://www.cutandslice.me/)
+
+>>>[witstudio](http://witstudio.net/)
+
+>>>[Emmet](http://emmet.io/) 
+
+>>#### CSS工具 
+
 >>>[Clippy](http://bennettfeely.com/clippy/)
 
 >>>[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)
+
+>>>[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)
 
 >>#### 在线转换 
 
@@ -187,6 +191,8 @@
 >>>>[imghover.css](http://gudh.github.io/ihover/dist/index.html)
 
 >>>>[normalize.css](http://necolas.github.io/normalize.css/) 
+
+>>>[hint.css](https://github.com/chinchang/hint.css)
 
 >>>##### SVG工具
 

@@ -148,8 +148,6 @@
 
 >>>[CSS3Ps](http://css3ps.com/)
 
->>>[Cut&amp;Slice](http://www.cutandslice.me/)
-
 >>>[witstudio](http://witstudio.net/)
 
 >>>[Emmet](http://emmet.io/) 

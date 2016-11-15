@@ -230,7 +230,7 @@
 
 >>>>[弹层插件](https://github.com/1340641314/cloud)
 
->>>>[移动alert](https://jaredreich.com/projects/notie.js/)
+>>>>[移动alert](https://jaredreich.com/projects/notie)
 
 >>>>[侧面导航](https://mango.github.io/slideout/)
 

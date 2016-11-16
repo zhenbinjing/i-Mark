@@ -20,6 +20,10 @@
 
 [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?utm_source=chrome-app-launcher-info-dialog)
 
+[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
+[greasyfork](https://greasyfork.org/zh-CN)
+
 [生成二维码](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8qr-code-generato/pflgjjogbmmcmfhfcnlohagkablhbpmg?utm_source=chrome-app-launcher-info-dialog)
 
 [Chrome 主题背景](https://chrome.google.com/webstore/detail/my-chrome-theme/oehpjpccmlcalbenfhnacjeocbjdonic?utm_source=chrome-app-launcher-info-dialog)

@@ -358,6 +358,8 @@
 
 >>>>[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)
 
+>>>>[滚动函数](https://github.com/imakewebthings/waypoints)
+
 >>>##### 特效
 
 >>>>[下雨效果](http://maroslaw.github.io/rainyday.js/)

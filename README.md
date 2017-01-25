@@ -4,10 +4,10 @@
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)、[greasyfork](https://greasyfork.org/zh-CN)、[PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?utm_source=chrome-app-launcher-info-dialog)、[DevTools Theme: Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo?utm_source=chrome-app-launcher-info-dialog)
 
 ### 服务管理
-[阿里云](https://www.aliyun.com/)、[备案管理](https://beian.gein.cn/account/login.htm)、[爱名域名](http://22.cn/)、[七牛存储](http://www.qiniu.com/)、[系统运维](http://www.osyunwei.com/)
+[阿里云](https://www.aliyun.com/)、[备案管理](https://beian.gein.cn/account/login.htm)、[七牛存储](http://www.qiniu.com/)、[系统运维](http://www.osyunwei.com/)
 
 ### 后台工具
-[PuTTY](http://www.putty.org/)、[WinSCP](http://winscp.net/eng/download.php)、[AppServ](https://www.appservnetwork.com/en/download/)、[ApmServ](http://zyan.cc/apmserv/)、[dede官网](http://www.dedecms.com/)
+[PuTTY](http://www.putty.org/)、[WinSCP](http://winscp.net/eng/download.php)、[AppServ](https://www.appservnetwork.com/en/download/)、[ApmServ](http://zyan.cc/apmserv/)
 
 ### 便捷工具 
 [端端](http://www.clouduolc.com/download.html)、[录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](http://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)

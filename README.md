@@ -25,7 +25,7 @@
 [17素材网](http://www.17sucai.com/)、[jq插件库](http://www.jq22.com/)
 
 ### 处理图片
-[制作ICO](http://www.bitbug.net/)、[DataURI ](http://duri.me/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[Apng制作](http://isparta.github.io/index.html)、[响应式图片](http://www.responsivebreakpoints.com/)
+[制作ICO](http://www.bitbug.net/)、[svg sprite ](https://icomoon.io/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[Apng制作](http://isparta.github.io/index.html)、[响应式图片](http://www.responsivebreakpoints.com/)
 
 ### 性能测试 
 [caniuse](http://caniuse.com/)、[网站测速](http://www.17ce.com/)、[网页性能](https://developers.google.com/speed/pagespeed/insights/)、[CDN加速](http://www.staticfile.org/)、[W3C 验证](http://validator.w3.org/)

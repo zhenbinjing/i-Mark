@@ -76,4 +76,4 @@
 [下雨效果](http://maroslaw.github.io/rainyday.js/)、[anime.js](http://anime-js.com/)、[点击复制](https://clipboardjs.com/)、[Velocity.js](http://julian.com/research/velocity/#duration)
 
 ### 构建工具
-[node.js](https://nodejs.org/)、[gulp.js](http://www.gulpjs.com.cn/)、[npmjs](https://www.npmjs.com/)、[GitUI](https://git-scm.com/downloads/guis)、[Git](https://git-for-windows.github.io/)
+[node.js](https://nodejs.org/)、[gulp.js](http://www.gulpjs.com.cn/)、[npmjs](https://www.npmjs.com/)、[GitUI](https://git-scm.com/downloads/guis)、[Git](https://git-for-windows.github.io/)、[travis-ci](https://travis-ci.org/)、[coveralls](https://coveralls.io/)

@@ -46,7 +46,7 @@
 [load.css](http://tobiasahlin.com/spinkit/)、[hover.css](http://ianlunn.github.io/Hover/)、[animate.css](http://daneden.github.io/animate.css/)、[imghover.css](http://gudh.github.io/ihover/dist/index.html)、[normalize.css](http://necolas.github.io/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
 
 ### SVG
-[SVGO](https://github.com/svg/svgo)、[svg.js](http://svgjs.com/)、[SVG粒子](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)
+[SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[SVG粒子](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
 
 ### 移动
 [响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](http://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[弹层插件](https://github.com/1340641314/cloud)、[移动alert](https://jaredreich.com/projects/notie)、[侧面导航](https://mango.github.io/slideout/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)

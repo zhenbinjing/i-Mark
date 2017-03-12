@@ -49,7 +49,7 @@
 [SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[SVG粒子](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
 
 ### 移动
-[响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](http://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[弹层插件](https://github.com/1340641314/cloud)、[移动alert](https://jaredreich.com/projects/notie)、[侧面导航](https://mango.github.io/slideout/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)
+[响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](http://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[弹层插件](https://github.com/1340641314/cloud)、[移动alert](https://jaredreich.com/projects/notie)、[侧面导航](https://slideout.js.org/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)
 
 ### 响应
 [Popup](http://dimsemenov.com/plugins/magnific-popup/)、[响应滚动](http://kenwheeler.github.io/slick/)、[Owl Carousel](http://owlgraphic.com/owlcarousel/)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)
@@ -64,7 +64,7 @@
 [网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[图片幻灯](http://demo.jb51.net/js/myfocus/)、[新手引导](http://www.zhugao.net/info/showroom/frontend/uguide/)、[打字效果](http://coffeedeveloper.github.io/typing.js/)、[实例索引](http://fgm.cc/learn/)、[树形插件](http://www.ztree.me/v3/main.php#_zTreeInfo)
 
 ### 界面
-[弹出框](http://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)
+[弹出框](http://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html) 、[icheck](http://icheck.fronteed.com/)
 
 ### 视觉
 [2D视差](http://matthew.wagerfield.com/parallax/)、[加载动画](http://mynameismatthieu.com/WOW/)、[360度展现](http://polarnotion.github.io/turntable/#js)、[滚动条动画](https://terwanerik.github.io/ScrollTrigger/)、[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)

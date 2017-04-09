@@ -64,7 +64,7 @@
 [网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[图片幻灯](http://demo.jb51.net/js/myfocus/)、[新手引导](http://www.zhugao.net/info/showroom/frontend/uguide/)、[打字效果](http://coffeedeveloper.github.io/typing.js/)、[实例索引](http://fgm.cc/learn/)、[树形插件](http://www.ztree.me/v3/main.php#_zTreeInfo)
 
 ### 界面
-[弹出框](http://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html) 、[icheck](http://icheck.fronteed.com/)
+[弹出框](http://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html) 、[icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[图片轮播](https://github.com/kenwheeler/slick/)、[输入提示](https://github.com/leaverou/awesomplete/)
 
 ### 视觉
 [2D视差](http://matthew.wagerfield.com/parallax/)、[加载动画](http://mynameismatthieu.com/WOW/)、[360度展现](http://polarnotion.github.io/turntable/#js)、[滚动条动画](https://terwanerik.github.io/ScrollTrigger/)、[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)

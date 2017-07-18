@@ -52,7 +52,7 @@
 [响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](https://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[移动alert](https://jaredreich.com/projects/notie)、[侧面导航](https://slideout.js.org/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)
 
 ### 响应
-[Popup](http://dimsemenov.com/plugins/magnific-popup/)、[响应滚动](https://kenwheeler.github.io/slick/)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)
+[Popup](http://dimsemenov.com/plugins/magnific-popup/)、[响应滚动](https://kenwheeler.github.io/slick/)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
 
 ### 媒体
 [Plyr](https://plyr.io/)、[Video.js](http://videojs.com/)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[视频背景](https://vodkabears.github.io/vide/)、[MP3播放](https://github.com/goldfire/howler.js)

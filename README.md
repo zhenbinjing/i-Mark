@@ -68,18 +68,18 @@
 [网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[实例索引](http://fgm.cc/learn/)、[树形插件](https://github.com/zTree/zTree_v3)
 
 ### 界面
-[弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html) 
+[点击复制](https://clipboardjs.com/)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html) 
 
 [icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[图片轮播](https://github.com/kenwheeler/slick/)、[输入提示](https://github.com/leaverou/awesomplete/)、[打字效果](https://github.com/luisvinicius167/ityped)
-
-### 视觉
-[2D视差](http://matthew.wagerfield.com/parallax/)、[360度展现](https://polarnotion.github.io/turntable/)、[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
 
 ### 滚动
 [animate-scroll](https://github.com/mpalpha/animate-scroll)、[滚动条动画](https://terwanerik.github.io/ScrollTrigger/)、[加载动画](http://mynameismatthieu.com/WOW/)、[AOS](https://michalsnik.github.io/aos/)、[滑动定位](http://simianstudios.com/portamento/)、[智能导航](https://davist11.github.io/jQuery-One-Page-Nav/)、[贴顶滚动](http://www.outyear.co.uk/smint/)、[滚动加载](https://scrollrevealjs.org/)、[滚屏插件](http://alvarotrigo.com/fullPage/)、[滚动视差](https://prinzhorn.github.io/skrollr/)、[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)、[滚动函数](https://github.com/imakewebthings/waypoints)
 
-### 特效
-[下雨效果](https://maroslaw.github.io/rainyday.js/)、[anime.js](http://anime-js.com/)、[点击复制](https://clipboardjs.com/)、[Velocity.js](http://julian.com/research/velocity/#duration)
+### 效果
+[anime.js](http://anime-js.com/)、[Velocity.js](http://julian.com/research/velocity/#duration)、[下雨效果](https://maroslaw.github.io/rainyday.js/)、[2D视差](http://matthew.wagerfield.com/parallax/)、[360度展现](https://polarnotion.github.io/turntable/)
+
+### 弹出
+[弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[弹出插件]（https://github.com/sachinchoolur/lightgallery.js)
 
 ### 构建工具
 [Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.github.io/)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[travis-ci](https://travis-ci.org/)、[Codecov](https://codecov.io/)、[David](https://david-dm.org/)、[saucelabs](https://saucelabs.com)

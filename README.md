@@ -73,10 +73,10 @@
 [icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[图片轮播](https://github.com/kenwheeler/slick/)、[输入提示](https://github.com/leaverou/awesomplete/)、[打字效果](https://github.com/luisvinicius167/ityped)
 
 ### 视觉
-[AOS](https://michalsnik.github.io/aos/)、[2D视差](http://matthew.wagerfield.com/parallax/)、[加载动画](http://mynameismatthieu.com/WOW/)、[360度展现](https://polarnotion.github.io/turntable/)、[滚动条动画](https://terwanerik.github.io/ScrollTrigger/)、[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
+[2D视差](http://matthew.wagerfield.com/parallax/)、[360度展现](https://polarnotion.github.io/turntable/)、[lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
 
 ### 滚动
-[滑动定位](http://simianstudios.com/portamento/)、[智能导航](https://davist11.github.io/jQuery-One-Page-Nav/)、[贴顶滚动](http://www.outyear.co.uk/smint/)、[滚动加载](https://scrollrevealjs.org/)、[滚屏插件](http://alvarotrigo.com/fullPage/)、[滚动视差](https://prinzhorn.github.io/skrollr/)、[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)、[滚动函数](https://github.com/imakewebthings/waypoints)
+[animate-scroll](https://github.com/mpalpha/animate-scroll)、[滚动条动画](https://terwanerik.github.io/ScrollTrigger/)、[加载动画](http://mynameismatthieu.com/WOW/)、[AOS](https://michalsnik.github.io/aos/)、[滑动定位](http://simianstudios.com/portamento/)、[智能导航](https://davist11.github.io/jQuery-One-Page-Nav/)、[贴顶滚动](http://www.outyear.co.uk/smint/)、[滚动加载](https://scrollrevealjs.org/)、[滚屏插件](http://alvarotrigo.com/fullPage/)、[滚动视差](https://prinzhorn.github.io/skrollr/)、[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)、[滚动函数](https://github.com/imakewebthings/waypoints)
 
 ### 特效
 [下雨效果](https://maroslaw.github.io/rainyday.js/)、[anime.js](http://anime-js.com/)、[点击复制](https://clipboardjs.com/)、[Velocity.js](http://julian.com/research/velocity/#duration)

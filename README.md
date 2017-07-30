@@ -17,7 +17,7 @@
 [端端](http://www.clouduolc.com/download.html)、[录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](http://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)
 
 ### 学习组织
-[GitHub](https://github.com/)、[牛人排行](http://githubrank.com/)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)
+[GitHub](https://github.com/)、[GitHub Rank](http://ghrc.babits.top/)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)
 
 ### 前端设计 
 [站酷网](http://www.zcool.com.cn/)、[优设网](http://www.uisdc.com/)、[设计网](http://www.shejidaren.com/)、[花瓣网](http://huaban.com/)

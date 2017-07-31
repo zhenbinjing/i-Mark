@@ -62,7 +62,7 @@
 [Plyr](https://plyr.io/)、[Video.js](http://videojs.com/)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[视频背景](https://vodkabears.github.io/vide/)、[MP3播放](https://github.com/goldfire/howler.js)
 
 ### 异步 
-[pjax.js](http://pjax.herokuapp.com/)、[延迟加载](http://www.appelsiini.net/projects/lazyload)、[分页插件](http://luis-almeida.github.io/jPages/)、[表单验证](https://github.com/jquery-validation/jquery-validation)、[表单验证2](http://parsleyjs.org/)
+[pjax.js](http://pjax.herokuapp.com/)、[fetch](http://github.github.io/fetch/)、[延迟加载](http://www.appelsiini.net/projects/lazyload)、[分页插件](http://luis-almeida.github.io/jPages/)、[表单验证](https://github.com/jquery-validation/jquery-validation)、[表单验证2](http://parsleyjs.org/)
 
 ### 国产
 [网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[实例索引](http://fgm.cc/learn/)、[树形插件](https://github.com/zTree/zTree_v3)

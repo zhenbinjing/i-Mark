@@ -17,7 +17,7 @@
 [端端](http://www.clouduolc.com/download.html)、[录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](http://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)
 
 ### 学习组织
-[GitHub](https://github.com/)、[GitHub Rank](http://ghrc.babits.top/)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)
+[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)
 
 ### 前端设计 
 [站酷网](http://www.zcool.com.cn/)、[优设网](http://www.uisdc.com/)、[设计网](http://www.shejidaren.com/)、[花瓣网](http://huaban.com/)
@@ -86,4 +86,7 @@
 [弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[弹出插件](https://github.com/sachinchoolur/lightgallery.js)
 
 ### 构建工具
-[Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.github.io/)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[travis-ci](https://travis-ci.org/)、[Codecov](https://codecov.io/)、[David](https://david-dm.org/)、[saucelabs](https://saucelabs.com)
+[Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.github.io/)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[HTTPS SSL](https://www.cloudflare.com/)
+
+### 单元测试
+[travis-ci](https://travis-ci.org/)、[Codecov](https://codecov.io/)、[David](https://david-dm.org/)、[saucelabs](https://saucelabs.com)

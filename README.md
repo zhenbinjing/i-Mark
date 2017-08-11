@@ -56,7 +56,7 @@
 [响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](https://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[移动alert](https://jaredreich.com/projects/notie)、[侧面导航](https://slideout.js.org/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)
 
 ### 响应
-[Popup](http://dimsemenov.com/plugins/magnific-popup/)、[响应滚动](https://kenwheeler.github.io/slick/)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
+[Popup](http://dimsemenov.com/plugins/magnific-popup/)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
 
 ### 媒体
 [Plyr](https://plyr.io/)、[Video.js](http://videojs.com/)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[视频背景](https://vodkabears.github.io/vide/)、[MP3播放](https://github.com/goldfire/howler.js)
@@ -80,7 +80,7 @@
 [滚动定位](http://simianstudios.com/portamento/)、[贴顶滚动](http://www.outyear.co.uk/smint/)、[智能导航](https://davist11.github.io/jQuery-One-Page-Nav/)
 
 ### 效果
-[anime.js](http://anime-js.com/)、[Velocity.js](http://julian.com/research/velocity/#duration)、[下雨效果](https://maroslaw.github.io/rainyday.js/)、[2D视差](http://matthew.wagerfield.com/parallax/)、[360度展现](https://polarnotion.github.io/turntable/)
+[anime.js](http://anime-js.com/)、[Velocity.js](http://julian.com/research/velocity/)、[下雨效果](https://maroslaw.github.io/rainyday.js/)、[2D视差](http://matthew.wagerfield.com/parallax/)、[360度展现](https://polarnotion.github.io/turntable/)
 
 ### 弹出
 [弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[弹出插件](https://github.com/sachinchoolur/lightgallery.js)

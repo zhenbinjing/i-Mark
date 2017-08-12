@@ -44,7 +44,7 @@
 [快切助手](http://kuaiqie.qdsay.com/)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[视频转换](http://video.online-convert.com/convert-to-ogg)、[js 混淆](http://utf-8.jp/public/jjencode.html)、[格式转换](https://cloudconvert.com/)
 
 ### 框架与库
-[jQuery](http://jquery.com/)、[Zepto](http://zeptojs.com/) 、[Vue](https://vuejs.org/)、[D3](https://d3js.org/)、[threejs](https://threejs.org/)
+[jQuery](http://jquery.com/)、[Zepto](http://zeptojs.com/) 、[Vue](https://vuejs.org/)、[D3](https://d3js.org/)、[threejs](https://threejs.org/)、[ECharts](http://echarts.baidu.com/)
 
 ### CSS
 [load.css](https://tobiasahlin.com/spinkit/)、[hover.css](https://ianlunn.github.io/Hover/)、[animate.css](https://daneden.github.io/animate.css/)、[imghover.css](https://gudh.github.io/ihover/dist/index.html)、[normalize.css](https://necolas.github.io/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)

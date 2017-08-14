@@ -17,7 +17,7 @@
 [端端](http://www.clouduolc.com/download.html)、[录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](http://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)
 
 ### 学习组织
-[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)
+[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)
 
 ### 前端设计 
 [站酷网](http://www.zcool.com.cn/)、[优设网](http://www.uisdc.com/)、[设计网](http://www.shejidaren.com/)、[花瓣网](http://huaban.com/)
@@ -73,7 +73,7 @@
 [icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[图片轮播](https://github.com/kenwheeler/slick/)、[输入提示](https://github.com/leaverou/awesomplete/)、[打字效果](https://github.com/luisvinicius167/ityped)
 
 ### 滚动
-[animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[滚动切换动画](https://terwanerik.github.io/ScrollTrigger/)、[滚动加载](https://scrollrevealjs.org/)
+[ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[滚动切换动画](https://terwanerik.github.io/ScrollTrigger/)、[滚动加载](https://scrollrevealjs.org/)
 
 [滚屏插件](http://alvarotrigo.com/fullPage/)、[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)、[滚动视差](https://prinzhorn.github.io/skrollr/)、[滚动函数](https://github.com/imakewebthings/waypoints)
 

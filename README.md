@@ -38,7 +38,7 @@
 [Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[witstudio](http://witstudio.net/)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
 
 ### CSS工具 
-[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)、[cssFilters](http://www.cssfilters.co/)、[css-generators](http://www.cssreflex.com/css-generators/)、[cssmatic](http://www.cssmatic.com/)、(图片转CSS)[https://github.com/javierbyte/img2css]
+[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)、[cssFilters](http://www.cssfilters.co/)、[css-generators](http://www.cssreflex.com/css-generators/)、[cssmatic](http://www.cssmatic.com/)、[图片转CSS](https://github.com/javierbyte/img2css)
 
 ### 在线转换
 [快切助手](http://kuaiqie.qdsay.com/)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[视频转换](http://video.online-convert.com/convert-to-ogg)、[js 混淆](http://utf-8.jp/public/jjencode.html)、[格式转换](https://cloudconvert.com/)
@@ -68,7 +68,7 @@
 [网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[实例索引](http://fgm.cc/learn/)、[树形插件](https://github.com/zTree/zTree_v3)
 
 ### 界面
-[点击复制](https://clipboardjs.com/)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、(Impress)[https://github.com/impress/impress.js]
+[点击复制](https://clipboardjs.com/)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[Impress](https://github.com/impress/impress.js)
 
 [icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[图片轮播](https://github.com/kenwheeler/slick/)、[输入提示](https://github.com/leaverou/awesomplete/)、[打字效果](https://github.com/luisvinicius167/ityped)
 

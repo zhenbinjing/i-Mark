@@ -35,7 +35,7 @@
 [caniuse](http://caniuse.com/)、[网站测速](http://www.17ce.com/)、[网页性能](https://developers.google.com/speed/pagespeed/insights/)、[CDN加速](http://www.staticfile.org/)、[W3C 验证](http://validator.w3.org/)
 
 ### 软件插件 
-[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[witstudio](http://witstudio.net/)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
+[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[assistor](http://wit-web.azurewebsites.net/assistor/download)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
 
 ### CSS工具 
 [Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)、[cssFilters](http://www.cssfilters.co/)、[css-generators](http://www.cssreflex.com/css-generators/)、[cssmatic](http://www.cssmatic.com/)、[图片转CSS](https://github.com/javierbyte/img2css)

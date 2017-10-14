@@ -41,7 +41,7 @@
 [Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)、[cssFilters](http://www.cssfilters.co/)、[css-generators](http://www.cssreflex.com/css-generators/)、[cssmatic](http://www.cssmatic.com/)、[图片转CSS](https://github.com/javierbyte/img2css)
 
 ### 在线转换
-[快切助手](http://kuaiqie.qdsay.com/)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[视频转换](http://video.online-convert.com/convert-to-ogg)、[js 混淆](http://utf-8.jp/public/jjencode.html)、[格式转换](https://cloudconvert.com/)
+[快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[全能转换](http://video.online-convert.com/convert-to-ogg)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)
 
 ### 框架与库
 [jQuery](http://jquery.com/)、[Zepto](http://zeptojs.com/) 、[Vue](https://vuejs.org/)、[D3](https://d3js.org/)、[threejs](https://threejs.org/)、[ECharts](http://echarts.baidu.com/)

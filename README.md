@@ -53,22 +53,22 @@
 [SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[SVG粒子](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
 
 ### 移动
-[响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](https://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[移动alert](https://jaredreich.com/projects/notie)、[侧面导航](https://slideout.js.org/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)
+[响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](https://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[侧面导航](https://slideout.js.org/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)、[slick](https://github.com/kenwheeler/slick)
 
 ### 响应
 [Popup](http://dimsemenov.com/plugins/magnific-popup/)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
 
 ### 媒体
-[Plyr](https://plyr.io/)、[Video.js](http://videojs.com/)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[视频背景](https://vodkabears.github.io/vide/)、[MP3播放](https://github.com/goldfire/howler.js)
+[Plyr](https://plyr.io/)、[Video.js](http://videojs.com/)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[视频背景](https://vodkabears.github.io/vide/)、[MP3播放](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
 
-### 异步 
+### 表单 
 [pjax.js](http://pjax.herokuapp.com/)、[fetch](http://github.github.io/fetch/)、[延迟加载](http://www.appelsiini.net/projects/lazyload)、[分页插件](http://luis-almeida.github.io/jPages/)、[表单验证](https://github.com/jquery-validation/jquery-validation)、[表单验证2](http://parsleyjs.org/)
 
 ### 国产
 [网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[实例索引](http://fgm.cc/learn/)、[树形插件](https://github.com/zTree/zTree_v3)
 
 ### 界面
-[点击复制](https://clipboardjs.com/)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[Impress](https://github.com/impress/impress.js)
+[点击复制](https://clipboardjs.com/)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[Impress](https://github.com/impress/impress.js)、[自动补全](https://github.com/leaverou/awesomplete/)
 
 [icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[图片轮播](https://github.com/kenwheeler/slick/)、[输入提示](https://github.com/leaverou/awesomplete/)、[打字效果](https://github.com/luisvinicius167/ityped)
 
@@ -83,7 +83,7 @@
 [anime.js](http://anime-js.com/)、[Velocity.js](http://julian.com/research/velocity/)、[下雨效果](https://maroslaw.github.io/rainyday.js/)、[2D视差](http://matthew.wagerfield.com/parallax/)、[360度展现](https://polarnotion.github.io/turntable/)
 
 ### 弹出
-[弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[弹出插件](https://github.com/sachinchoolur/lightgallery.js)
+[弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[弹出插件](https://github.com/sachinchoolur/lightgallery.js)、[notie](https://github.com/jaredreich/notie)
 
 ### 构建工具
 [Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.github.io/)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[HTTPS SSL](https://www.cloudflare.com/)

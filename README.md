@@ -38,7 +38,7 @@
 [Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[assistor](http://wit-web.azurewebsites.net/assistor/download)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
 
 ### CSS工具 
-[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)、[cssFilters](http://www.cssfilters.co/)、[css-generators](http://www.cssreflex.com/css-generators/)、[cssmatic](http://www.cssmatic.com/)、[图片转CSS](https://github.com/javierbyte/img2css)
+[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)、[cssFilters](http://www.cssfilters.co/)、[图片转CSS](https://github.com/javierbyte/img2css)
 
 ### 在线转换
 [快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[全能转换](http://video.online-convert.com/convert-to-ogg)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)

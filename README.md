@@ -62,7 +62,7 @@
 [Plyr](https://plyr.io/)、[Video.js](http://videojs.com/)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[视频背景](https://vodkabears.github.io/vide/)、[MP3播放](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
 
 ### 表单 
-[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](http://github.github.io/fetch/)、[延迟加载](http://www.appelsiini.net/projects/lazyload)、[分页插件](http://luis-almeida.github.io/jPages/)、[表单验证](https://github.com/jquery-validation/jquery-validation)、[表单验证2](http://parsleyjs.org/)
+[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](http://github.github.io/fetch/)、[分页插件](http://luis-almeida.github.io/jPages/)、[表单验证](https://github.com/jquery-validation/jquery-validation)、[表单验证2](http://parsleyjs.org/)
 
 ### 国产
 [网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[实例索引](http://fgm.cc/learn/)、[树形插件](https://github.com/zTree/zTree_v3)
@@ -70,10 +70,10 @@
 ### 界面
 [点击复制](https://clipboardjs.com/)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[Impress](https://github.com/impress/impress.js)、[自动补全](https://github.com/leaverou/awesomplete/)
 
-[icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[图片轮播](https://github.com/kenwheeler/slick/)、[输入提示](https://github.com/leaverou/awesomplete/)、[打字效果](https://github.com/luisvinicius167/ityped)
+[icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[打字效果](https://github.com/luisvinicius167/ityped)
 
 ### 滚动
-[ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[滚动切换动画](https://terwanerik.github.io/ScrollTrigger/)、[滚动加载](https://scrollrevealjs.org/)
+[ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[滚动切换动画](https://terwanerik.github.io/ScrollTrigger/)、[滚动加载](https://scrollrevealjs.org/)、[滚动加载](https://github.com/tuupola/jquery_lazyload)
 
 [滚屏插件](http://alvarotrigo.com/fullPage/)、[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)、[滚动视差](https://prinzhorn.github.io/skrollr/)、[滚动函数](https://github.com/imakewebthings/waypoints)
 
@@ -86,7 +86,7 @@
 [弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[弹出插件](https://github.com/sachinchoolur/lightgallery.js)、[notie](https://github.com/jaredreich/notie)
 
 ### 构建工具
-[Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.github.io/)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[HTTPS SSL](https://www.cloudflare.com/)
+[Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.js.org)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[HTTPS SSL](https://www.cloudflare.com/)
 
 ### 单元测试
 [travis-ci](https://travis-ci.org/)、[Codecov](https://codecov.io/)、[David](https://david-dm.org/)、[saucelabs](https://saucelabs.com)

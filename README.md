@@ -17,37 +17,37 @@
 [录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](http://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)
 
 ### 学习组织
-[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)
+[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)
 
 ### 前端设计 
 [站酷网](http://www.zcool.com.cn/)、[优设网](http://www.uisdc.com/)、[设计网](http://www.shejidaren.com/)、[花瓣网](http://huaban.com/)
 
-### 前端博客 
-[掘金](http://gold.xitu.io/)、[W3CPlus](http://www.w3cplus.com/)、[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)、[阮一峰博客](http://www.ruanyifeng.com/blog/)、[廖雪峰博客](http://www.liaoxuefeng.com/)
-
 ### 前端素材
 [17素材网](http://www.17sucai.com/)、[jq插件库](http://www.jq22.com/)
 
-### 处理图片
-[制作ICO](http://www.bitbug.net/)、[svg sprite ](https://icomoon.io/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[响应式图片](http://www.responsivebreakpoints.com/)、[EZGIF](https://ezgif.com/)
+### 前端博客 
+[大漠博客](http://www.w3cplus.com/)、[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)、[阮一峰博客](http://www.ruanyifeng.com/blog/)、[廖雪峰博客](http://www.liaoxuefeng.com/)
 
 ### 性能测试 
-[caniuse](http://caniuse.com/)、[网站测速](http://www.17ce.com/)、[网页性能](https://developers.google.com/speed/pagespeed/insights/)、[CDN加速](http://www.staticfile.org/)、[W3C 验证](http://validator.w3.org/)
+[caniuse](http://caniuse.com/)、[pageSpeed](https://developers.google.com/speed/pagespeed/insights/)、[CDN](http://www.staticfile.org/)
 
 ### 软件插件 
 [Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[assistor](http://wit-web.azurewebsites.net/assistor/download)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
 
-### CSS工具 
-[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/#.17,.67,.83,.67)、[cssFilters](http://www.cssfilters.co/)、[图片转CSS](https://github.com/javierbyte/img2css)
+### 处理图片
+[icomoon](https://icomoon.io/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[EZGIF](https://ezgif.com/)、[制作ICO](http://www.bitbug.net/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[响应式图片](http://www.responsivebreakpoints.com/)
 
-### 在线转换
-[快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[全能转换](http://video.online-convert.com/convert-to-ogg)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)
+### 在线工具
+[快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[全能转换](http://video.online-convert.com/convert-to-ogg)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)、[W3C 验证](http://validator.w3.org/)
 
 ### 框架与库
 [jQuery](http://jquery.com/)、[Zepto](http://zeptojs.com/) 、[Vue](https://vuejs.org/)、[D3](https://d3js.org/)、[threejs](https://threejs.org/)、[ECharts](http://echarts.baidu.com/)
 
 ### CSS
 [load.css](https://tobiasahlin.com/spinkit/)、[hover.css](https://ianlunn.github.io/Hover/)、[animate.css](https://daneden.github.io/animate.css/)、[imghover.css](https://gudh.github.io/ihover/dist/index.html)、[normalize.css](https://necolas.github.io/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
+
+### CSS工具 
+[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/)、[cssFilters](http://www.cssfilters.co/)、[Img2css](https://github.com/javierbyte/img2css)
 
 ### SVG
 [SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)

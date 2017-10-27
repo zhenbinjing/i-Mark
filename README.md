@@ -65,7 +65,10 @@
 [pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](http://github.github.io/fetch/)、[jPages](https://github.com/luis-almeida/jPages)、[Validation](https://github.com/jquery-validation/jquery-validation)、[Parsleyjs](https://github.com/guillaumepotier/Parsley.js/)
 
 ### 界面
-[clipboardjs](https://github.com/zenorocha/clipboard.js)、[flipclockjs](https://github.com/objectivehtml/FlipClock)、[Pickadate](https://github.com/amsul/pickadate.js/)、[intro.js](https://github.com/usablica/intro.js)、[Impress](https://github.com/impress/impress.js)、[Awesomplete](https://github.com/leaverou/awesomplete/)、[zTree](https://github.com/zTree/zTree_v3)、[Superslide](http://www.superslide2.com/)、[Table-hover](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[icheck](http://icheck.fronteed.com/)、[Sortable](https://github.com/RubaXa/Sortable/)、[draggabilly](https://github.com/desandro/draggabilly)、[ityped](https://github.com/luisvinicius167/ityped)
+[intro.js](https://github.com/usablica/intro.js)、[Impress](https://github.com/impress/impress.js)、[Awesomplete](https://github.com/leaverou/awesomplete/)、[Sortable](https://github.com/RubaXa/Sortable/)、[draggabilly](https://github.com/desandro/draggabilly)、[ityped](https://github.com/luisvinicius167/ityped)、
+
+[Pickadate](https://github.com/amsul/pickadate.js/)、[zTree](https://github.com/zTree/zTree_v3)、[clipboardjs](https://github.com/zenorocha/clipboard.js)、[flipclockjs](https://github.com/objectivehtml/FlipClock)、[Superslide](http://www.superslide2.com/)、[Table-hover](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[icheck](http://icheck.fronteed.com/)
+
 
 ### 滚动
 [ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[Animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)、[Scrollrevealjs](https://scrollrevealjs.org/)、[jquery_lazyload](https://github.com/tuupola/jquery_lazyload)

@@ -53,7 +53,7 @@
 [SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
 
 ### 移动
-[Enquire](https://github.com/wickynilliams/enquire.js)、[Iscroll](https://github.com/cubiq/iscroll)、[Hammer](https://github.com/hammerjs/hammer.js)、[Fastclick](https://github.com/ftlabs/fastclick)、[Slideout](https://github.com/mango/slideout)、[Photoswipe](https://github.com/dimsemenov/photoswipe)、[Swiper(https://github.com/nolimits4web/swiper)、[Fullpage](https://github.com/yanhaijing/zepto.fullpage)、[Slick](https://github.com/kenwheeler/slick)
+[Enquire](https://github.com/wickynilliams/enquire.js)、[Iscroll](https://github.com/cubiq/iscroll)、[Hammer](https://github.com/hammerjs/hammer.js)、[Fastclick](https://github.com/ftlabs/fastclick)、[Slideout](https://github.com/mango/slideout)、[Photoswipe](https://github.com/dimsemenov/photoswipe)、[Swiper](https://github.com/nolimits4web/swiper)、[Fullpage](https://github.com/yanhaijing/zepto.fullpage)、[Slick](https://github.com/kenwheeler/slick)
 
 ### 响应
 [Popup](https://github.com/dimsemenov/Magnific-Popup)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
@@ -75,7 +75,7 @@
 [Portamento](https://github.com/krisnoble/Portamento)、[smint](http://www.outyear.co.uk/smint/)、[jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav)
 
 ### 效果
-[Anime.js](http://anime-js.com/)、[Velocity.js](https://github.com/julianshapiro/velocity)、[Rainyday(https://github.com/maroslaw/rainyday.js)、[Parallax](https://github.com/wagerfield/parallax)
+[Anime.js](http://anime-js.com/)、[Velocity.js](https://github.com/julianshapiro/velocity)、[Rainyday](https://github.com/maroslaw/rainyday.js)、[Parallax](https://github.com/wagerfield/parallax)
 
 ### 弹出
 [Sweetalert](https://github.com/t4t5/sweetalert)、[Fancybox](https://github.com/fancyapps/fancybox)、[highslide](http://highslide.com/download.php)、[lightgallery](https://github.com/sachinchoolur/lightgallery.js)、[notie](https://github.com/jaredreich/notie)、[Layer](http://layer.layui.com/)

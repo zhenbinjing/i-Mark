@@ -50,40 +50,35 @@
 [load.css](https://tobiasahlin.com/spinkit/)、[hover.css](https://ianlunn.github.io/Hover/)、[animate.css](https://daneden.github.io/animate.css/)、[imghover.css](https://gudh.github.io/ihover/dist/index.html)、[normalize.css](https://necolas.github.io/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
 
 ### SVG
-[SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[SVG粒子](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
+[SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
 
 ### 移动
-[响应事件JS](http://wicky.nillia.ms/enquire.js/)、[兼容滚动JS](http://iscrolljs.com/)、[移动触摸JS](https://hammerjs.github.io/)、[点透事件JS](https://github.com/ftlabs/fastclick)、[侧面导航](https://slideout.js.org/)、[图片放大](http://photoswipe.com/)、[触摸组件](http://idangero.us/swiper/demos/)、[滚屏插件](https://github.com/yanhaijing/zepto.fullpage)、[slick](https://github.com/kenwheeler/slick)
+[Enquire](https://github.com/wickynilliams/enquire.js)、[Iscroll](https://github.com/cubiq/iscroll)、[Hammer](https://github.com/hammerjs/hammer.js)、[Fastclick](https://github.com/ftlabs/fastclick)、[Slideout](https://github.com/mango/slideout)、[Photoswipe](https://github.com/dimsemenov/photoswipe)、[Swiper(https://github.com/nolimits4web/swiper)、[Fullpage](https://github.com/yanhaijing/zepto.fullpage)、[Slick](https://github.com/kenwheeler/slick)
 
 ### 响应
-[Popup](http://dimsemenov.com/plugins/magnific-popup/)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
+[Popup](https://github.com/dimsemenov/Magnific-Popup)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
 
 ### 媒体
-[Plyr](https://plyr.io/)、[Video.js](http://videojs.com/)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[视频背景](https://vodkabears.github.io/vide/)、[MP3播放](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
+[Plyr](https://github.com/sampotts/plyr)、[Video.js](https://github.com/videojs/video.js)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[Vide](https://github.com/VodkaBears/Vide)、[Howler](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
 
 ### 表单 
-[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](http://github.github.io/fetch/)、[分页插件](http://luis-almeida.github.io/jPages/)、[表单验证](https://github.com/jquery-validation/jquery-validation)、[表单验证2](http://parsleyjs.org/)
-
-### 国产
-[网页弹窗](http://layer.layui.com/)、[综合应用](http://www.superslide2.com/)、[实例索引](http://fgm.cc/learn/)、[树形插件](https://github.com/zTree/zTree_v3)
+[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](http://github.github.io/fetch/)、[jPages](https://github.com/luis-almeida/jPages)、[Validation](https://github.com/jquery-validation/jquery-validation)、[Parsleyjs](https://github.com/guillaumepotier/Parsley.js/)
 
 ### 界面
-[点击复制](https://clipboardjs.com/)、[倒数计时](http://flipclockjs.com/)、[时间日期](http://amsul.ca/pickadate.js/)、[新手引导](https://github.com/usablica/intro.js)、[表格效果](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[Impress](https://github.com/impress/impress.js)、[自动补全](https://github.com/leaverou/awesomplete/)
-
-[icheck](http://icheck.fronteed.com/)、[拖拽](https://github.com/RubaXa/Sortable/)、[拖放](https://github.com/desandro/draggabilly)、[打字效果](https://github.com/luisvinicius167/ityped)
+[clipboardjs](https://github.com/zenorocha/clipboard.js)、[flipclockjs](https://github.com/objectivehtml/FlipClock)、[Pickadate](https://github.com/amsul/pickadate.js/)、[intro.js](https://github.com/usablica/intro.js)、[Impress](https://github.com/impress/impress.js)、[Awesomplete](https://github.com/leaverou/awesomplete/)、[zTree](https://github.com/zTree/zTree_v3)、[Superslide](http://www.superslide2.com/)、[Table-hover](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[icheck](http://icheck.fronteed.com/)、[Sortable](https://github.com/RubaXa/Sortable/)、[draggabilly](https://github.com/desandro/draggabilly)、[ityped](https://github.com/luisvinicius167/ityped)
 
 ### 滚动
-[ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[滚动切换动画](https://terwanerik.github.io/ScrollTrigger/)、[滚动加载](https://scrollrevealjs.org/)、[滚动加载](https://github.com/tuupola/jquery_lazyload)
+[ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[Animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)、[Scrollrevealjs](https://scrollrevealjs.org/)、[jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
 
-[滚屏插件](http://alvarotrigo.com/fullPage/)、[滚动条](http://manos.malihu.gr/jquery-custom-content-scroller/)、[滚动视差](https://prinzhorn.github.io/skrollr/)、[滚动函数](https://github.com/imakewebthings/waypoints)
+[fullPage](https://github.com/alvarotrigo/fullPage.js)、[Scroller](https://github.com/malihu/malihu-custom-scrollbar-plugin)、[Skrollr](https://github.com/Prinzhorn/skrollr)、[Waypoints](https://github.com/imakewebthings/waypoints)
 
-[滚动定位](http://simianstudios.com/portamento/)、[贴顶滚动](http://www.outyear.co.uk/smint/)、[智能导航](https://davist11.github.io/jQuery-One-Page-Nav/)
+[Portamento](https://github.com/krisnoble/Portamento)、[smint](http://www.outyear.co.uk/smint/)、[jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav)
 
 ### 效果
-[anime.js](http://anime-js.com/)、[Velocity.js](http://julian.com/research/velocity/)、[下雨效果](https://maroslaw.github.io/rainyday.js/)、[2D视差](http://matthew.wagerfield.com/parallax/)、[360度展现](https://polarnotion.github.io/turntable/)
+[Anime.js](http://anime-js.com/)、[Velocity.js](https://github.com/julianshapiro/velocity)、[Rainyday(https://github.com/maroslaw/rainyday.js)、[Parallax](https://github.com/wagerfield/parallax)
 
 ### 弹出
-[弹出框](https://t4t5.github.io/sweetalert/)、[弹出层](http://fancyapps.com/fancybox/)、[图片弹窗](http://highslide.com/download.php)、[弹出插件](https://github.com/sachinchoolur/lightgallery.js)、[notie](https://github.com/jaredreich/notie)
+[Sweetalert](https://github.com/t4t5/sweetalert)、[Fancybox](https://github.com/fancyapps/fancybox)、[highslide](http://highslide.com/download.php)、[lightgallery](https://github.com/sachinchoolur/lightgallery.js)、[notie](https://github.com/jaredreich/notie)、[Layer](http://layer.layui.com/)
 
 ### 构建工具
 [Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.js.org)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[HTTPS SSL](https://www.cloudflare.com/)

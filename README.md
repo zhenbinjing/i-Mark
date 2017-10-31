@@ -14,7 +14,7 @@
 [PuTTY](http://www.putty.org/)、[WinSCP](http://winscp.net/eng/download.php)、[AppServ](https://www.appserv.org/download/)、[ApmServ](http://zyan.cc/apmserv/)、[Gitstack](https://gitstack.com/)、[宝塔面板](https://www.bt.cn/)
 
 ### 便捷工具 
-[录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](http://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)
+[录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](https://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)
 
 ### 学习组织
 [GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)
@@ -47,7 +47,7 @@
 [load.css](https://tobiasahlin.com/spinkit/)、[hover.css](https://ianlunn.github.io/Hover/)、[animate.css](https://daneden.github.io/animate.css/)、[imghover.css](https://gudh.github.io/ihover/dist/index.html)、[normalize.css](https://necolas.github.io/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
 
 ### CSS工具 
-[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/)、[cssFilters](http://www.cssfilters.co/)、[Img2css](https://github.com/javierbyte/img2css)
+[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/)、[cssFilters](http://www.cssfilters.co/)、[Img2css](https://github.com/javierbyte/img2css)、[gradient](http://gradient.awesomes.cn/)
 
 ### SVG
 [SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
@@ -62,7 +62,7 @@
 [Plyr](https://github.com/sampotts/plyr)、[Video.js](https://github.com/videojs/video.js)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[Vide](https://github.com/VodkaBears/Vide)、[Howler](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
 
 ### 表单 
-[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](http://github.github.io/fetch/)、[jPages](https://github.com/luis-almeida/jPages)、[Validation](https://github.com/jquery-validation/jquery-validation)、[Parsleyjs](https://github.com/guillaumepotier/Parsley.js/)
+[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](https://github.github.io/fetch/)、[jPages](https://github.com/luis-almeida/jPages)、[Validation](https://github.com/jquery-validation/jquery-validation)、[Parsleyjs](https://github.com/guillaumepotier/Parsley.js/)
 
 ### 界面
 [intro.js](https://github.com/usablica/intro.js)、[Impress](https://github.com/impress/impress.js)、[Awesomplete](https://github.com/leaverou/awesomplete/)、[Sortable](https://github.com/RubaXa/Sortable/)、[draggabilly](https://github.com/desandro/draggabilly)、[ityped](https://github.com/luisvinicius167/ityped)、

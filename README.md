@@ -7,14 +7,11 @@
 [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?utm_source=chrome-app-launcher-info-dialog)、
 [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog)
 
-### 服务管理
-[阿里云](https://www.aliyun.com/)、[备案管理](https://beian.gein.cn/account/login.htm)、[七牛存储](http://www.qiniu.com/)、[系统运维](http://www.osyunwei.com/)
-
 ### 后台工具
 [PuTTY](http://www.putty.org/)、[WinSCP](http://winscp.net/eng/download.php)、[AppServ](https://www.appserv.org/download/)、[ApmServ](http://zyan.cc/apmserv/)、[Gitstack](https://gitstack.com/)、[宝塔面板](https://www.bt.cn/)
 
 ### 便捷工具 
-[录制gif](http://www.cockos.com/licecap/)、[查找文件](http://www.listary.com/download)、[仿站工具](https://smalltool.github.io/)、[文件对比](http://sourcegear.com/diffmerge/)、[护眼软件](http://iristech.co/iris/)
+[录制gif](http://www.cockos.com/licecap/)、[仿站工具](https://smalltool.github.io/)
 
 ### 学习组织
 [GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)

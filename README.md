@@ -59,7 +59,10 @@
 [Plyr](https://github.com/sampotts/plyr)、[Video.js](https://github.com/videojs/video.js)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[Vide](https://github.com/VodkaBears/Vide)、[Howler](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
 
 ### 表单 
-[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](https://github.github.io/fetch/)、[jPages](https://github.com/luis-almeida/jPages)、[Validation](https://github.com/jquery-validation/jquery-validation)、[Parsleyjs](https://github.com/guillaumepotier/Parsley.js/)
+[jPages](https://github.com/luis-almeida/jPages)、[Validation](https://github.com/jquery-validation/jquery-validation)、[Parsleyjs](https://github.com/guillaumepotier/Parsley.js/)
+
+### 异步
+[pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](https://github.github.io/fetch/)、[axios](https://github.com/axios/axios)
 
 ### 界面
 [intro.js](https://github.com/usablica/intro.js)、[Impress](https://github.com/impress/impress.js)、[Awesomplete](https://github.com/leaverou/awesomplete/)、[Sortable](https://github.com/RubaXa/Sortable/)、[draggabilly](https://github.com/desandro/draggabilly)、[ityped](https://github.com/luisvinicius167/ityped)、

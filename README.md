@@ -26,7 +26,7 @@
 [大漠博客](http://www.w3cplus.com/)、[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)、[阮一峰博客](http://www.ruanyifeng.com/blog/)、[廖雪峰博客](http://www.liaoxuefeng.com/)
 
 ### 性能测试 
-[caniuse](http://caniuse.com/)、[pageSpeed](https://developers.google.com/speed/pagespeed/insights/)、[Webpagetest](https://www.webpagetest.org/)、[CDN](http://www.staticfile.org/)
+[caniuse](http://caniuse.com/)、[pageSpeed](https://developers.google.com/speed/pagespeed/insights/)、[Webpagetest](https://www.webpagetest.org/)、[CDN](http://www.staticfile.org/)、[Sizzy](https://sizzy.co/)
 
 ### 软件插件 
 [Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[assistor](http://wit-web.azurewebsites.net/assistor/download)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)

@@ -8,7 +8,7 @@
 [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog)
 
 ### 后台工具
-[PuTTY](https://www.putty.org/)、[WinSCP](https://winscp.net/eng/download.php)、[AppServ](https://www.appserv.org/download/)、[Gitstack](https://gitstack.com/)、[宝塔面板](https://www.bt.cn/)
+[PuTTY](https://www.putty.org/)、[WinSCP](https://winscp.net/eng/download.php)、[AppServ](https://www.appserv.org/download/)、[Gitstack](https://gitstack.com/)、[宝塔面板](https://www.bt.cn/)、[Filezilla](https://filezilla-project.org/)
 
 ### 便捷工具 
 [录制gif](http://www.cockos.com/licecap/)、[仿站工具](https://smalltool.github.io/)

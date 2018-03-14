@@ -26,7 +26,7 @@
 [大漠博客](http://www.w3cplus.com/)、[张鑫旭博客](http://www.zhangxinxu.com/wordpress/)、[阮一峰博客](http://www.ruanyifeng.com/blog/)、[廖雪峰博客](http://www.liaoxuefeng.com/)
 
 ### 性能测试 
-[caniuse](http://caniuse.com/)、[pageSpeed](https://developers.google.com/speed/pagespeed/insights/)、[Webpagetest](https://www.webpagetest.org/)、[CDN](http://www.staticfile.org/)、[Sizzy](https://sizzy.co/)
+[caniuse](http://caniuse.com/)、[pageSpeed](https://developers.google.com/speed/pagespeed/insights/)、[Webpagetest](https://www.webpagetest.org/)
 
 ### 软件插件 
 [Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[assistor](http://wit-web.azurewebsites.net/assistor/download)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
@@ -35,7 +35,7 @@
 [icomoon](https://icomoon.io/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[EZGIF](https://ezgif.com/)、[制作ICO](http://www.bitbug.net/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[响应式图片](http://www.responsivebreakpoints.com/)
 
 ### 在线工具
-[快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[全能转换](http://video.online-convert.com/convert-to-ogg)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)、[W3C 验证](http://validator.w3.org/)
+[快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[全能转换](http://video.online-convert.com/convert-to-ogg)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)、[W3C 验证](http://validator.w3.org/)、[Sizzy](https://sizzy.co/)
 
 ### 框架与库
 [jQuery](http://jquery.com/)、[Zepto](http://zeptojs.com/) 、[Vue](https://vuejs.org/)、[D3](https://d3js.org/)、[threejs](https://threejs.org/)、[ECharts](http://echarts.baidu.com/)

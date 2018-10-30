@@ -11,7 +11,7 @@
 [PuTTY](https://www.putty.org/)、[WinSCP](https://winscp.net/eng/download.php)、[AppServ](https://www.appserv.org/download/)、[Filezilla](https://filezilla-project.org/)、[Goodsync](https://www.goodsync.com/)、[宝塔面板](https://www.bt.cn/)
 
 ### 便捷工具 
-[录制gif](http://www.cockos.com/licecap/)、[仿站工具](https://smalltool.github.io/)
+[录制gif](http://www.cockos.com/licecap/)、[仿站工具](https://smalltool.github.io/)、[文本替换](https://www.52pojie.cn/thread-408725-1-1.html)
 
 ### 学习组织
 [GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)
@@ -44,7 +44,7 @@
 [load.css](https://tobiasahlin.com/spinkit/)、[hover.css](https://ianlunn.github.io/Hover/)、[animate.css](https://daneden.github.io/animate.css/)、[imghover.css](https://gudh.github.io/ihover/dist/index.html)、[normalize.css](https://necolas.github.io/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
 
 ### CSS工具 
-[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/)、[cssFilters](http://www.cssfilters.co/)、[Img2css](https://github.com/javierbyte/img2css)、[gradient](http://gradient.awesomes.cn/)
+[Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/)、[cssFilters](http://www.cssfilters.co/)、[gradient](http://gradient.awesomes.cn/)
 
 ### SVG
 [SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)

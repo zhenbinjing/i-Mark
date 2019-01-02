@@ -37,26 +37,26 @@
 ### 在线工具
 [快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[全能转换](http://video.online-convert.com/convert-to-ogg)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)、[W3C 验证](http://validator.w3.org/)、[Sizzy](https://sizzy.co/)、[视频编辑](https://clipchamp.com/)
 
-### 框架与库
-[jQuery](http://jquery.com/)、[Zepto](http://zeptojs.com/) 、[Vue](https://vuejs.org/)、[D3](https://d3js.org/)、[threejs](https://threejs.org/)、[ECharts](http://echarts.baidu.com/)
+### 框架库
+[jQuery](https://github.com/jquery/jquery)、[Zepto](https://github.com/madrobby/zepto) 、[Vue](https://github.com/vuejs/vue)
 
 ### CSS
-[load.css](https://tobiasahlin.com/spinkit/)、[hover.css](https://ianlunn.github.io/Hover/)、[animate.css](https://daneden.github.io/animate.css/)、[imghover.css](https://gudh.github.io/ihover/dist/index.html)、[normalize.css](https://necolas.github.io/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
+[load.css](https://github.com/tobiasahlin/SpinKit)、[hover.css](https://github.com/IanLunn/Hover)、[animate.css](https://github.com/daneden/animate.css)、[imghover.css](https://github.com/gudh/ihover)、[normalize.css](https://github.com/necolas/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
 
 ### CSS工具 
 [Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/)、[cssFilters](http://www.cssfilters.co/)、[gradient](http://gradient.awesomes.cn/)
 
 ### SVG
-[SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](http://snapsvg.io/)、[Vivus](https://github.com/maxwellito/vivus)
+[SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](https://github.com/adobe-webplatform/Snap.svg)、[Vivus](https://github.com/maxwellito/vivus)
 
 ### 移动
-[Enquire](https://github.com/wickynilliams/enquire.js)、[Iscroll](https://github.com/cubiq/iscroll)、[Hammer](https://github.com/hammerjs/hammer.js)、[Fastclick](https://github.com/ftlabs/fastclick)、[Slideout](https://github.com/mango/slideout)、[Photoswipe](https://github.com/dimsemenov/photoswipe)、[Swiper](https://github.com/nolimits4web/swiper)、[Fullpage](https://github.com/yanhaijing/zepto.fullpage)、[Slick](https://github.com/kenwheeler/slick)
+[Enquire](https://github.com/wickynilliams/enquire.js)、[Better-scroll](https://github.com/ustbhuangyi/better-scroll)、[Hammer](https://github.com/hammerjs/hammer.js)、[Fastclick](https://github.com/ftlabs/fastclick)、[Slideout](https://github.com/mango/slideout)、[Photoswipe](https://github.com/dimsemenov/photoswipe)、[Swiper](https://github.com/nolimits4web/swiper)、[Fullpage](https://github.com/yanhaijing/zepto.fullpage)、[Slick](https://github.com/kenwheeler/slick)
 
 ### 响应
-[Popup](https://github.com/dimsemenov/Magnific-Popup)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)、[picturefill](https://github.com/scottjehl/picturefill)
+[Popup](https://github.com/dimsemenov/Magnific-Popup)、[Owl Carousel](https://github.com/OwlCarousel2/OwlCarousel2)、[Jquery Picture](https://github.com/Abban/jQuery-Picture)、[Respond](https://github.com/scottjehl/Respond/)、[lazysizes](https://github.com/aFarkas/lazysizes)
 
 ### 媒体
-[Plyr](https://github.com/sampotts/plyr)、[Video.js](https://github.com/videojs/video.js)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[Flowplayer](https://flowplayer.org/)、[html5media](https://html5media.info/)、[Vide](https://github.com/VodkaBears/Vide)、[Howler](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
+[Plyr](https://github.com/sampotts/plyr)、[Video.js](https://github.com/videojs/video.js)、[FitVids.js](https://github.com/davatron5000/FitVids.js)、[html5media](https://html5media.info/)、[Vide](https://github.com/VodkaBears/Vide)、[Howler](https://github.com/goldfire/howler.js)、[APlayer](https://github.com/MoePlayer/APlayer)
 
 ### 表单 
 [jPages](https://github.com/luis-almeida/jPages)、[Validation](https://github.com/jquery-validation/jquery-validation)、[Parsleyjs](https://github.com/guillaumepotier/Parsley.js/)
@@ -64,10 +64,13 @@
 ### 异步
 [pjax.js](https://github.com/defunkt/jquery-pjax)、[fetch](https://github.github.io/fetch/)、[axios](https://github.com/axios/axios)
 
+### 数据
+[D3](https://github.com/d3/d3)、[threejs](https://github.com/mrdoob/three.js)、[ECharts](https://github.com/apache/incubator-echarts)
+
 ### 界面
 [intro.js](https://github.com/usablica/intro.js)、[Impress](https://github.com/impress/impress.js)、[Awesomplete](https://github.com/leaverou/awesomplete/)、[Sortable](https://github.com/RubaXa/Sortable/)、[draggabilly](https://github.com/desandro/draggabilly)、[ityped](https://github.com/luisvinicius167/ityped)、
 
-[Pickadate](https://github.com/amsul/pickadate.js/)、[zTree](https://github.com/zTree/zTree_v3)、[clipboardjs](https://github.com/zenorocha/clipboard.js)、[flipclockjs](https://github.com/objectivehtml/FlipClock)、[Superslide](http://www.superslide2.com/)、[Table-hover](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[icheck](http://icheck.fronteed.com/)
+[Pickadate](https://github.com/amsul/pickadate.js/)、[zTree](https://github.com/zTree/zTree_v3)、[clipboardjs](https://github.com/zenorocha/clipboard.js/)、[flipclockjs](https://github.com/objectivehtml/FlipClock)、[Superslide](http://www.superslide2.com/)、[Table-hover](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[icheck](https://github.com/fronteed/iCheck/)
 
 ### 滚动
 [ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[Animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)、[Scrollrevealjs](https://scrollrevealjs.org/)、[jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
@@ -77,7 +80,7 @@
 [Portamento](https://github.com/krisnoble/Portamento)、[smint](http://www.outyear.co.uk/smint/)、[jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav)
 
 ### 效果
-[Anime.js](http://anime-js.com/)、[Velocity.js](https://github.com/julianshapiro/velocity)、[Rainyday](https://github.com/maroslaw/rainyday.js)、[Parallax](https://github.com/wagerfield/parallax)
+[Anime.js](http://anime-js.com/)、[Velocity.js](https://github.com/julianshapiro/velocity)、[Parallax](https://github.com/wagerfield/parallax)
 
 ### 弹出
 [Sweetalert](https://github.com/t4t5/sweetalert)、[Fancybox](https://github.com/fancyapps/fancybox)、[highslide](http://highslide.com/download.php)、[lightgallery](https://github.com/sachinchoolur/lightgallery.js)、[notie](https://github.com/jaredreich/notie)、[Layer](http://layer.layui.com/)

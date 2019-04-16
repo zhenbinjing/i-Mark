@@ -2,7 +2,8 @@
 [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb?utm_source=chrome-app-launcher-info-dialog)、[翻译](https://github.com/Selection-Translator/crx-selection-translate)、[录影](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj)、[截图](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-app-launcher-info-dialog)、[二维码](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8qr-code-generato/pflgjjogbmmcmfhfcnlohagkablhbpmg?utm_source=chrome-app-launcher-info-dialog)、[像素级对比](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?utm_source=chrome-app-launcher-info-dialog)、[Github 搜索提示](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd?utm_source=chrome-app-launcher-info-dialog)、[Chrome 下载器](https://chrome.google.com/webstore/detail/chrono-download-manager/mciiogijehkdemklbdcbfkefimifhecn)、[Chrome 主题背景](https://chrome.google.com/webstore/detail/my-chrome-theme/oehpjpccmlcalbenfhnacjeocbjdonic?utm_source=chrome-app-launcher-info-dialog)、[恢复关闭窗口](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj)
 
 [puppeteer-recorder](https://chrome.google.com/webstore/detail/puppeteer-recorder/djeegiggegleadkkbgopoonhjimgehda?utm_source=chrome-ntp-icon)、[pageSpeed](https://chrome.google.com/webstore/detail/google-pagespeed-insights/hfebkooaidmeboeblkkejdoepilnnjhn)、[Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)、[AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog)、[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?utm_source=chrome-app-launcher-info-dialog)、[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-app-launcher-info-dialog)、[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall/related?hl=zh-CN)、[Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?utm_source=chrome-app-launcher-info-dialog)、[Snap Links Lite](https://chrome.google.com/webstore/detail/snap-links-lite/ighmoimpbimbhbahbpcapifcplnblhgo?utm_source=chrome-app-launcher-info-dialog)、
-[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)、[greasyfork](https://greasyfork.org/zh-CN)、[vue-devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)、[json view](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)、[greasyfork](https://greasyfork.org/zh-CN)、[vue-devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)、[json view](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)、[git-history](https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf)
+
 
 [Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm?utm_source=chrome-app-launcher-info-dialog)、
 [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?utm_source=chrome-app-launcher-info-dialog)
@@ -37,17 +38,14 @@
 ### 在线工具
 [快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)、[W3C 验证](http://validator.w3.org/)、[Sizzy](https://sizzy.co/)、[流程图](https://www.processon.com/)、[字体转换](https://onlinefontconverter.com/)
 
-### 框架库
-[jQuery](https://github.com/jquery/jquery)、[Zepto](https://github.com/madrobby/zepto) 、[Vue](https://github.com/vuejs/vue)
-
-### CSS
+### CSS动画
 [load.css](https://github.com/tobiasahlin/SpinKit)、[hover.css](https://github.com/IanLunn/Hover)、[animate.css](https://github.com/daneden/animate.css)、[imghover.css](https://github.com/gudh/ihover)、[normalize.css](https://github.com/necolas/normalize.css/) 、[hint.css](https://github.com/chinchang/hint.css)
 
 ### CSS工具 
 [Clippy](http://bennettfeely.com/clippy/)、[3DCSS](http://thewebrocks.com/demos/3D-css-tester/)、[cubic-bezier](http://cubic-bezier.com/)、[cssFilters](http://www.cssfilters.co/)、[gradient](http://gradient.awesomes.cn/)
 
-### SVG
-[SVGO](https://github.com/svg/svgo)、[SVGJS](http://svgjs.com/)、[Particles](https://github.com/VincentGarreau/particles.js)、[Snap.svg](https://github.com/adobe-webplatform/Snap.svg)、[Vivus](https://github.com/maxwellito/vivus)
+### 框架库
+[jQuery](https://github.com/jquery/jquery)、[Zepto](https://github.com/madrobby/zepto) 、[Vue](https://github.com/vuejs/vue)
 
 ### 移动
 [Enquire](https://github.com/wickynilliams/enquire.js)、[Better-scroll](https://github.com/ustbhuangyi/better-scroll)、[Hammer](https://github.com/hammerjs/hammer.js)、[Fastclick](https://github.com/ftlabs/fastclick)、[Slideout](https://github.com/mango/slideout)、[Photoswipe](https://github.com/dimsemenov/photoswipe)、[Swiper](https://github.com/nolimits4web/swiper)、[Fullpage](https://github.com/yanhaijing/zepto.fullpage)、[Slick](https://github.com/kenwheeler/slick)
@@ -80,7 +78,7 @@
 [Portamento](https://github.com/krisnoble/Portamento)、[smint](http://www.outyear.co.uk/smint/)、[jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav)
 
 ### 效果
-[Anime.js](http://anime-js.com/)、[Velocity.js](https://github.com/julianshapiro/velocity)、[Parallax](https://github.com/wagerfield/parallax)
+[Anime.js](http://anime-js.com/)、[Velocity.js](https://github.com/julianshapiro/velocity)、[Parallax](https://github.com/wagerfield/parallax)、[Vivus](https://github.com/maxwellito/vivus)
 
 ### 弹出
 [Sweetalert](https://github.com/t4t5/sweetalert)、[Fancybox](https://github.com/fancyapps/fancybox)、[highslide](http://highslide.com/download.php)、[lightgallery](https://github.com/sachinchoolur/lightgallery.js)、[notie](https://github.com/jaredreich/notie)、[Layer](http://layer.layui.com/)

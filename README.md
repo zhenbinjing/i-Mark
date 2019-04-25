@@ -71,9 +71,9 @@
 [Pickadate](https://github.com/amsul/pickadate.js/)、[zTree](https://github.com/zTree/zTree_v3)、[clipboardjs](https://github.com/zenorocha/clipboard.js/)、[flipclockjs](https://github.com/objectivehtml/FlipClock)、[Superslide](http://www.superslide2.com/)、[Table-hover](http://www.jqueryscript.net/table/Table-Rows-Columns-Cells-Highlighting-Plugin-with-jQuery-Table-Hover.html)、[icheck](https://github.com/fronteed/iCheck/)
 
 ### 滚动
-[ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[Animate-scroll](https://github.com/mpalpha/animate-scroll)、[AOS](https://michalsnik.github.io/aos/)、[WOW](http://mynameismatthieu.com/WOW/)、[ScrollTrigger](https://terwanerik.github.io/ScrollTrigger/)、[Scrollrevealjs](https://scrollrevealjs.org/)、[jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
+[ScrollMagic](https://github.com/janpaepke/ScrollMagic)、[scrollama](https://github.com/russellgoldenberg/scrollama)、[scrollreveal](https://github.com/scrollreveal/scrollreveal)、[AOS](https://github.com/michalsnik/aos/)、[WOW](https://github.com/matthieua/WOW)、[jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
 
-[fullPage](https://github.com/alvarotrigo/fullPage.js)、[Scroller](https://github.com/malihu/malihu-custom-scrollbar-plugin)、[Skrollr](https://github.com/Prinzhorn/skrollr)、[Waypoints](https://github.com/imakewebthings/waypoints)
+[fullPage](https://github.com/alvarotrigo/fullPage.js)、[Scroller](https://github.com/malihu/malihu-custom-scrollbar-plugin)、[Waypoints](https://github.com/imakewebthings/waypoints)
 
 [Portamento](https://github.com/krisnoble/Portamento)、[smint](http://www.outyear.co.uk/smint/)、[jQuery-One-Page-Nav](https://github.com/davist11/jQuery-One-Page-Nav)
 

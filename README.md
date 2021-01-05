@@ -15,7 +15,7 @@
 [录制gif](http://www.cockos.com/licecap/)、[仿站工具](https://smalltool.github.io/)、[文本替换](https://www.52pojie.cn/thread-408725-1-1.html)
 
 ### 学习组织
-[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端资源](https://www.awesomes.cn/)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)
+[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)
 
 ### 前端设计 
 [站酷网](http://www.zcool.com.cn/)、[优设网](http://www.uisdc.com/)、[设计网](http://www.shejidaren.com/)、[花瓣网](http://huaban.com/)

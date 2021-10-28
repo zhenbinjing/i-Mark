@@ -12,10 +12,10 @@
 [PuTTY](https://www.putty.org/)、[WinSCP](https://winscp.net/eng/download.php)、[AppServ](https://www.appserv.org/download/)、[Filezilla](https://filezilla-project.org/)、[Goodsync](https://www.goodsync.com/)、[宝塔面板](https://www.bt.cn/)、[XAMPP](https://www.apachefriends.org/index.html)
 
 ### 便捷工具 
-[录制gif](http://www.cockos.com/licecap/)、[仿站工具](https://smalltool.github.io/)、[文本替换](https://www.52pojie.cn/thread-408725-1-1.html)
+[录制gif](http://www.cockos.com/licecap/)、[仿站工具](https://smalltool.github.io/)
 
 ### 学习组织
-[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[GitHub Rank World](https://www.diycode.cc/trends)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)
+[GitHub](https://github.com/)、[GitHub Rank China](http://githubrank.com/)、[前端俱乐部](http://f2er.club/)、[掘金](http://gold.xitu.io/)
 
 ### 前端设计 
 [站酷网](http://www.zcool.com.cn/)、[优设网](http://www.uisdc.com/)、[设计网](http://www.shejidaren.com/)、[花瓣网](http://huaban.com/)
@@ -30,7 +30,7 @@
 [caniuse](http://caniuse.com/)、[pageSpeed](https://developers.google.com/speed/pagespeed/insights/)、[Webpagetest](https://www.webpagetest.org/)
 
 ### 软件插件 
-[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[assistor](http://wit-web.azurewebsites.net/assistor/download)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
+[Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[蓝湖](https://lanhuapp.com/)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
 
 ### 处理图片
 [icomoon](https://icomoon.io/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[EZGIF](https://ezgif.com/)、[制作ICO](http://www.bitbug.net/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[响应式图片](http://www.responsivebreakpoints.com/)、[图像修复](https://www.nvidia.com/research/inpainting/)

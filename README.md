@@ -83,4 +83,4 @@
 [Node.js](https://nodejs.org/)、[Npm](https://www.npmjs.com/)、[Gulp](http://www.gulpjs.com/)、[Webpack](https://webpack.js.org)、[Rollup](https://rollupjs.org/)、[Git](https://git-for-windows.github.io/)、[GitUI](https://git-scm.com/downloads/guis)、[GitStack](http://gitstack.com/)、[HTTPS SSL](https://www.cloudflare.com/)
 
 ### 单元测试
-[travis-ci](https://travis-ci.org/)、[Codecov](https://codecov.io/)、[David](https://david-dm.org/)、[saucelabs](https://saucelabs.com)
+[travis-ci](https://travis-ci.com/)、[Codecov](https://codecov.io/)、[saucelabs](https://saucelabs.com)

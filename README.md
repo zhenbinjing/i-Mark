@@ -29,7 +29,7 @@
 [Adobe](http://www.adobe.com/creativecloud/catalog/desktop.html)、[蓝湖](https://lanhuapp.com/)、[Emmet](http://emmet.io/) 、[zeplin](https://zeplin.io/)
 
 ### 处理图片
-[icomoon](https://icomoon.io/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[EZGIF](https://ezgif.com/)、[制作ICO](http://www.bitbug.net/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[响应式图片](http://www.responsivebreakpoints.com/)、[图像修复](https://www.nvidia.com/research/inpainting/)
+[icomoon](https://icomoon.io/)、[iconfont](http://www.iconfont.cn/)、[tinypng](https://tinypng.com/)、[EZGIF](https://ezgif.com/)、[制作ICO](http://www.bitbug.net/)、[智图压缩](http://zhitu.isux.us/)、[合并识别](http://www.spritecow.com/)、[响应式图片](http://www.responsivebreakpoints.com/)、[代码图](https://carbon.now.sh/)
 
 ### 在线工具
 [W3C 验证](http://validator.w3.org/)、[快切助手](http://kuaiqie.qdsay.com/)、[js 加密](http://utf-8.jp/public/jjencode.html)、[代码对比](https://www.diffchecker.com/)、[代码压缩](http://tool.css-js.com/)、[批量转换](https://cloudconvert.com/)、[视频转换](https://clipchamp.com/)、[视频压缩](https://www.apowersoft.cn/compress-video-online)、[流程图](https://www.processon.com/)、[字体转换](https://transfonter.org/)
